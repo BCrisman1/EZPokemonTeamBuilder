@@ -1,0 +1,9299 @@
+[
+  {
+
+  },
+  {
+    "NationalDex": "0001",
+    "RegionalDex": "0001",
+    "Generation": 1,
+    "Species": "Bulbasaur",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0002",
+    "RegionalDex": "0002",
+    "Generation": 1,
+    "Species": "Ivysaur",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0003",
+    "RegionalDex": "0003",
+    "Generation": 1,
+    "Species": "Venusaur",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0004",
+    "RegionalDex": "0004",
+    "Generation": 1,
+    "Species": "Charmander",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0005",
+    "RegionalDex": "0005",
+    "Generation": 1,
+    "Species": "Charmeleon",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0006",
+    "RegionalDex": "0006",
+    "Generation": 1,
+    "Species": "Charizard",
+    "Types": [
+      2,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0007",
+    "RegionalDex": "0007",
+    "Generation": 1,
+    "Species": "Squirtle",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0008",
+    "RegionalDex": "0008",
+    "Generation": 1,
+    "Species": "Wartortle",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0009",
+    "RegionalDex": "0009",
+    "Generation": 1,
+    "Species": "Blastoise",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0010",
+    "RegionalDex": "0010",
+    "Generation": 1,
+    "Species": "Caterpie",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0011",
+    "RegionalDex": "0011",
+    "Generation": 1,
+    "Species": "Metapod",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0012",
+    "RegionalDex": "0012",
+    "Generation": 1,
+    "Species": "Butterfree",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0013",
+    "RegionalDex": "0013",
+    "Generation": 1,
+    "Species": "Weedle",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0014",
+    "RegionalDex": "0014",
+    "Generation": 1,
+    "Species": "Kakuna",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0015",
+    "RegionalDex": "0015",
+    "Generation": 1,
+    "Species": "Beedrill",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0016",
+    "RegionalDex": "0016",
+    "Generation": 1,
+    "Species": "Pidgey",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0017",
+    "RegionalDex": "0017",
+    "Generation": 1,
+    "Species": "Pidgeotto",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0018",
+    "RegionalDex": "0018",
+    "Generation": 1,
+    "Species": "Pidgeot",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0019",
+    "RegionalDex": "0019",
+    "Generation": 1,
+    "Species": "Rattata",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0019",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Rattata",
+    "Types": [
+      16,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0020",
+    "RegionalDex": "0020",
+    "Generation": 1,
+    "Species": "Raticate",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0020",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Raticate",
+    "Types": [
+      16,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0021",
+    "RegionalDex": "0021",
+    "Generation": 1,
+    "Species": "Spearow",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0022",
+    "RegionalDex": "0022",
+    "Generation": 1,
+    "Species": "Fearow",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0023",
+    "RegionalDex": "0023",
+    "Generation": 1,
+    "Species": "Ekans",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0024",
+    "RegionalDex": "0024",
+    "Generation": 1,
+    "Species": "Arbok",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0025",
+    "RegionalDex": "0025",
+    "Generation": 1,
+    "Species": "Pikachu",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0026",
+    "RegionalDex": "0026",
+    "Generation": 1,
+    "Species": "Raichu",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0026",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Raichu",
+    "Types": [
+      4,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0027",
+    "RegionalDex": "0027",
+    "Generation": 1,
+    "Species": "Sandshrew",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0027",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Sandshrew",
+    "Types": [
+      6,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0028",
+    "RegionalDex": "0028",
+    "Generation": 1,
+    "Species": "Sandslash",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0028",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Sandslash",
+    "Types": [
+      6,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0029",
+    "RegionalDex": "0029",
+    "Generation": 1,
+    "Species": "Nidoran♀",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0030",
+    "RegionalDex": "0030",
+    "Generation": 1,
+    "Species": "Nidorina",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0031",
+    "RegionalDex": "0031",
+    "Generation": 1,
+    "Species": "Nidoqueen",
+    "Types": [
+      8,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0032",
+    "RegionalDex": "0032",
+    "Generation": 1,
+    "Species": "Nidoran♂",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0033",
+    "RegionalDex": "0033",
+    "Generation": 1,
+    "Species": "Nidorino",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0034",
+    "RegionalDex": "0034",
+    "Generation": 1,
+    "Species": "Nidoking",
+    "Types": [
+      8,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0035",
+    "RegionalDex": "0035",
+    "Generation": 1,
+    "Species": "Clefairy",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0036",
+    "RegionalDex": "0036",
+    "Generation": 1,
+    "Species": "Clefable",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0037",
+    "RegionalDex": "0037",
+    "Generation": 1,
+    "Species": "Vulpix",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0037",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Vulpix",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0038",
+    "RegionalDex": "0038",
+    "Generation": 1,
+    "Species": "Ninetales",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0038",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Ninetales",
+    "Types": [
+      6,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0039",
+    "RegionalDex": "0039",
+    "Generation": 1,
+    "Species": "Jigglypuff",
+    "Types": [
+      1,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0040",
+    "RegionalDex": "0040",
+    "Generation": 1,
+    "Species": "Wigglytuff",
+    "Types": [
+      1,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0041",
+    "RegionalDex": "0041",
+    "Generation": 1,
+    "Species": "Zubat",
+    "Types": [
+      8,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0042",
+    "RegionalDex": "0042",
+    "Generation": 1,
+    "Species": "Golbat",
+    "Types": [
+      8,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0043",
+    "RegionalDex": "0043",
+    "Generation": 1,
+    "Species": "Oddish",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0044",
+    "RegionalDex": "0044",
+    "Generation": 1,
+    "Species": "Gloom",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0045",
+    "RegionalDex": "0045",
+    "Generation": 1,
+    "Species": "Vileplume",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0046",
+    "RegionalDex": "0046",
+    "Generation": 1,
+    "Species": "Paras",
+    "Types": [
+      12,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0047",
+    "RegionalDex": "0047",
+    "Generation": 1,
+    "Species": "Parasect",
+    "Types": [
+      12,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0048",
+    "RegionalDex": "0048",
+    "Generation": 1,
+    "Species": "Venonat",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0049",
+    "RegionalDex": "0049",
+    "Generation": 1,
+    "Species": "Venomoth",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0050",
+    "RegionalDex": "0050",
+    "Generation": 1,
+    "Species": "Diglett",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0050",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Diglett",
+    "Types": [
+      9,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0051",
+    "RegionalDex": "0051",
+    "Generation": 1,
+    "Species": "Dugtrio",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0051",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Dugtrio",
+    "Types": [
+      9,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0052",
+    "RegionalDex": "0052",
+    "Generation": 1,
+    "Species": "Meowth",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0052",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Meowth",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0052",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Meowth",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0053",
+    "RegionalDex": "0053",
+    "Generation": 1,
+    "Species": "Persian",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0053",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Persian",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0054",
+    "RegionalDex": "0054",
+    "Generation": 1,
+    "Species": "Psyduck",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0055",
+    "RegionalDex": "0055",
+    "Generation": 1,
+    "Species": "Golduck",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0056",
+    "RegionalDex": "0056",
+    "Generation": 1,
+    "Species": "Mankey",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0057",
+    "RegionalDex": "0057",
+    "Generation": 1,
+    "Species": "Primeape",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0058",
+    "RegionalDex": "0058",
+    "Generation": 1,
+    "Species": "Growlithe",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0058",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Growlithe",
+    "Types": [
+      2,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0059",
+    "RegionalDex": "0059",
+    "Generation": 1,
+    "Species": "Arcanine",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0060",
+    "RegionalDex": "0060",
+    "Generation": 1,
+    "Species": "Poliwag",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0061",
+    "RegionalDex": "0061",
+    "Generation": 1,
+    "Species": "Poliwhirl",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0062",
+    "RegionalDex": "0062",
+    "Generation": 1,
+    "Species": "Poliwrath",
+    "Types": [
+      3,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0063",
+    "RegionalDex": "0063",
+    "Generation": 1,
+    "Species": "Abra",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0064",
+    "RegionalDex": "0064",
+    "Generation": 1,
+    "Species": "Kadabra",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0065",
+    "RegionalDex": "0065",
+    "Generation": 1,
+    "Species": "Alakazam",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0066",
+    "RegionalDex": "0066",
+    "Generation": 1,
+    "Species": "Machop",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0067",
+    "RegionalDex": "0067",
+    "Generation": 1,
+    "Species": "Machoke",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0068",
+    "RegionalDex": "0068",
+    "Generation": 1,
+    "Species": "Machamp",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0069",
+    "RegionalDex": "0069",
+    "Generation": 1,
+    "Species": "Bellsprout",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0070",
+    "RegionalDex": "0070",
+    "Generation": 1,
+    "Species": "Weepinbell",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0071",
+    "RegionalDex": "0071",
+    "Generation": 1,
+    "Species": "Victreebel",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0072",
+    "RegionalDex": "0072",
+    "Generation": 1,
+    "Species": "Tentacool",
+    "Types": [
+      3,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0073",
+    "RegionalDex": "0073",
+    "Generation": 1,
+    "Species": "Tentacruel",
+    "Types": [
+      3,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0074",
+    "RegionalDex": "0074",
+    "Generation": 1,
+    "Species": "Geodude",
+    "Types": [
+      13,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0074",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Geodude",
+    "Types": [
+      13,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0075",
+    "RegionalDex": "0075",
+    "Generation": 1,
+    "Species": "Graveler",
+    "Types": [
+      13,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0075",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Graveler",
+    "Types": [
+      13,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0076",
+    "RegionalDex": "0076",
+    "Generation": 1,
+    "Species": "Golem",
+    "Types": [
+      13,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0076",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Golem",
+    "Types": [
+      13,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0077",
+    "RegionalDex": "0077",
+    "Generation": 1,
+    "Species": "Ponyta",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0077",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Ponyta",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0078",
+    "RegionalDex": "0078",
+    "Generation": 1,
+    "Species": "Rapidash",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0078",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Rapidash",
+    "Types": [
+      11,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0079",
+    "RegionalDex": "0079",
+    "Generation": 1,
+    "Species": "Slowpoke",
+    "Types": [
+      3,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0079",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Slowpoke",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0080",
+    "RegionalDex": "0080",
+    "Generation": 1,
+    "Species": "Slowbro",
+    "Types": [
+      3,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0080",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Slowbro",
+    "Types": [
+      8,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0081",
+    "RegionalDex": "0081",
+    "Generation": 1,
+    "Species": "Magnemite",
+    "Types": [
+      4,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0082",
+    "RegionalDex": "0082",
+    "Generation": 1,
+    "Species": "Magneton",
+    "Types": [
+      4,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0083",
+    "RegionalDex": "0083",
+    "Generation": 1,
+    "Species": "Farfetch'd",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0083",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Farfetch'd",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0084",
+    "RegionalDex": "0084",
+    "Generation": 1,
+    "Species": "Doduo",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0085",
+    "RegionalDex": "0085",
+    "Generation": 1,
+    "Species": "Dodrio",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0086",
+    "RegionalDex": "0086",
+    "Generation": 1,
+    "Species": "Seel",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0087",
+    "RegionalDex": "0087",
+    "Generation": 1,
+    "Species": "Dewgong",
+    "Types": [
+      3,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0088",
+    "RegionalDex": "0088",
+    "Generation": 1,
+    "Species": "Grimer",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0088",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Grimer",
+    "Types": [
+      8,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0089",
+    "RegionalDex": "0089",
+    "Generation": 1,
+    "Species": "Muk",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0089",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Muk",
+    "Types": [
+      8,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0090",
+    "RegionalDex": "0090",
+    "Generation": 1,
+    "Species": "Shellder",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0091",
+    "RegionalDex": "0091",
+    "Generation": 1,
+    "Species": "Cloyster",
+    "Types": [
+      3,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0092",
+    "RegionalDex": "0092",
+    "Generation": 1,
+    "Species": "Gastly",
+    "Types": [
+      14,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0093",
+    "RegionalDex": "0093",
+    "Generation": 1,
+    "Species": "Haunter",
+    "Types": [
+      14,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0094",
+    "RegionalDex": "0094",
+    "Generation": 1,
+    "Species": "Gengar",
+    "Types": [
+      14,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0095",
+    "RegionalDex": "0095",
+    "Generation": 1,
+    "Species": "Onix",
+    "Types": [
+      13,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0096",
+    "RegionalDex": "0096",
+    "Generation": 1,
+    "Species": "Drowzee",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0097",
+    "RegionalDex": "0097",
+    "Generation": 1,
+    "Species": "Hypno",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0098",
+    "RegionalDex": "0098",
+    "Generation": 1,
+    "Species": "Krabby",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0099",
+    "RegionalDex": "0099",
+    "Generation": 1,
+    "Species": "Kingler",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0100",
+    "RegionalDex": "0100",
+    "Generation": 1,
+    "Species": "Voltorb",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0101",
+    "RegionalDex": "0101",
+    "Generation": 1,
+    "Species": "Electrode",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0102",
+    "RegionalDex": "0102",
+    "Generation": 1,
+    "Species": "Exeggcute",
+    "Types": [
+      5,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0103",
+    "RegionalDex": "0103",
+    "Generation": 1,
+    "Species": "Exeggutor",
+    "Types": [
+      5,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0103",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Exeggutor",
+    "Types": [
+      5,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0104",
+    "RegionalDex": "0104",
+    "Generation": 1,
+    "Species": "Cubone",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0105",
+    "RegionalDex": "0105",
+    "Generation": 1,
+    "Species": "Marowak",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0105",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Marowak",
+    "Types": [
+      2,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0106",
+    "RegionalDex": "0106",
+    "Generation": 1,
+    "Species": "Hitmonlee",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0107",
+    "RegionalDex": "0107",
+    "Generation": 1,
+    "Species": "Hitmonchan",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0108",
+    "RegionalDex": "0108",
+    "Generation": 1,
+    "Species": "Lickitung",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0109",
+    "RegionalDex": "0109",
+    "Generation": 1,
+    "Species": "Koffing",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0110",
+    "RegionalDex": "0110",
+    "Generation": 1,
+    "Species": "Weezing",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0110",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Weezing",
+    "Types": [
+      8,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0111",
+    "RegionalDex": "0111",
+    "Generation": 1,
+    "Species": "Rhyhorn",
+    "Types": [
+      9,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0112",
+    "RegionalDex": "0112",
+    "Generation": 1,
+    "Species": "Rhydon",
+    "Types": [
+      9,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0113",
+    "RegionalDex": "0113",
+    "Generation": 1,
+    "Species": "Chansey",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0114",
+    "RegionalDex": "0114",
+    "Generation": 1,
+    "Species": "Tangela",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0115",
+    "RegionalDex": "0115",
+    "Generation": 1,
+    "Species": "Kangaskhan",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0116",
+    "RegionalDex": "0116",
+    "Generation": 1,
+    "Species": "Horsea",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0117",
+    "RegionalDex": "0117",
+    "Generation": 1,
+    "Species": "Seadra",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0118",
+    "RegionalDex": "0118",
+    "Generation": 1,
+    "Species": "Goldeen",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0119",
+    "RegionalDex": "0119",
+    "Generation": 1,
+    "Species": "Seaking",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0120",
+    "RegionalDex": "0120",
+    "Generation": 1,
+    "Species": "Staryu",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0121",
+    "RegionalDex": "0121",
+    "Generation": 1,
+    "Species": "Starmie",
+    "Types": [
+      3,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0122",
+    "RegionalDex": "0122",
+    "Generation": 1,
+    "Species": "Mr. Mime",
+    "Types": [
+      11,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0122",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Mr. Mime",
+    "Types": [
+      6,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0123",
+    "RegionalDex": "0123",
+    "Generation": 1,
+    "Species": "Scyther",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0124",
+    "RegionalDex": "0124",
+    "Generation": 1,
+    "Species": "Jynx",
+    "Types": [
+      6,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0125",
+    "RegionalDex": "0125",
+    "Generation": 1,
+    "Species": "Electabuzz",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0126",
+    "RegionalDex": "0126",
+    "Generation": 1,
+    "Species": "Magmar",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0127",
+    "RegionalDex": "0127",
+    "Generation": 1,
+    "Species": "Pinsir",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0128",
+    "RegionalDex": "0128",
+    "Generation": 1,
+    "Species": "Tauros",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0129",
+    "RegionalDex": "0129",
+    "Generation": 1,
+    "Species": "Magikarp",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0130",
+    "RegionalDex": "0130",
+    "Generation": 1,
+    "Species": "Gyarados",
+    "Types": [
+      3,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0131",
+    "RegionalDex": "0131",
+    "Generation": 1,
+    "Species": "Lapras",
+    "Types": [
+      3,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0132",
+    "RegionalDex": "0132",
+    "Generation": 1,
+    "Species": "Ditto",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0133",
+    "RegionalDex": "0133",
+    "Generation": 1,
+    "Species": "Eevee",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0134",
+    "RegionalDex": "0134",
+    "Generation": 1,
+    "Species": "Vaporeon",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0135",
+    "RegionalDex": "0135",
+    "Generation": 1,
+    "Species": "Jolteon",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0136",
+    "RegionalDex": "0136",
+    "Generation": 1,
+    "Species": "Flareon",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0137",
+    "RegionalDex": "0137",
+    "Generation": 1,
+    "Species": "Porygon",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0138",
+    "RegionalDex": "0138",
+    "Generation": 1,
+    "Species": "Omanyte",
+    "Types": [
+      13,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0139",
+    "RegionalDex": "0139",
+    "Generation": 1,
+    "Species": "Omastar",
+    "Types": [
+      13,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0140",
+    "RegionalDex": "0140",
+    "Generation": 1,
+    "Species": "Kabuto",
+    "Types": [
+      13,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0141",
+    "RegionalDex": "0141",
+    "Generation": 1,
+    "Species": "Kabutops",
+    "Types": [
+      13,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0142",
+    "RegionalDex": "0142",
+    "Generation": 1,
+    "Species": "Aerodactyl",
+    "Types": [
+      13,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0143",
+    "RegionalDex": "0143",
+    "Generation": 1,
+    "Species": "Snorlax",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0144",
+    "RegionalDex": "0144",
+    "Generation": 1,
+    "Species": "Articuno",
+    "Types": [
+      6,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0144",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Articuno",
+    "Types": [
+      11,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0145",
+    "RegionalDex": "0145",
+    "Generation": 1,
+    "Species": "Zapdos",
+    "Types": [
+      4,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0145",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Zapdos",
+    "Types": [
+      7,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0146",
+    "RegionalDex": "0146",
+    "Generation": 1,
+    "Species": "Moltres",
+    "Types": [
+      2,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0146",
+    "RegionalDex": "",
+    "Generation": 1,
+    "Species": "Moltres",
+    "Types": [
+      16,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0147",
+    "RegionalDex": "0147",
+    "Generation": 1,
+    "Species": "Dratini",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0148",
+    "RegionalDex": "0148",
+    "Generation": 1,
+    "Species": "Dragonair",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0149",
+    "RegionalDex": "0149",
+    "Generation": 1,
+    "Species": "Dragonite",
+    "Types": [
+      15,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0150",
+    "RegionalDex": "0150",
+    "Generation": 1,
+    "Species": "Mewtwo",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0151",
+    "RegionalDex": "0151",
+    "Generation": 1,
+    "Species": "Mew",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0152",
+    "RegionalDex": "0001",
+    "Generation": 2,
+    "Species": "Chikorita",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0153",
+    "RegionalDex": "0002",
+    "Generation": 2,
+    "Species": "Bayleef",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0154",
+    "RegionalDex": "0003",
+    "Generation": 2,
+    "Species": "Meganium",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0155",
+    "RegionalDex": "0004",
+    "Generation": 2,
+    "Species": "Cyndaquil",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0156",
+    "RegionalDex": "0005",
+    "Generation": 2,
+    "Species": "Quilava",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0157",
+    "RegionalDex": "0006",
+    "Generation": 2,
+    "Species": "Typhlosion",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0158",
+    "RegionalDex": "0007",
+    "Generation": 2,
+    "Species": "Totodile",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0159",
+    "RegionalDex": "0008",
+    "Generation": 2,
+    "Species": "Croconaw",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0160",
+    "RegionalDex": "0009",
+    "Generation": 2,
+    "Species": "Feraligatr",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0161",
+    "RegionalDex": "0019",
+    "Generation": 2,
+    "Species": "Sentret",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0162",
+    "RegionalDex": "0020",
+    "Generation": 2,
+    "Species": "Furret",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0163",
+    "RegionalDex": "0015",
+    "Generation": 2,
+    "Species": "Hoothoot",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0164",
+    "RegionalDex": "0016",
+    "Generation": 2,
+    "Species": "Noctowl",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0165",
+    "RegionalDex": "0030",
+    "Generation": 2,
+    "Species": "Ledyba",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0166",
+    "RegionalDex": "0031",
+    "Generation": 2,
+    "Species": "Ledian",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0167",
+    "RegionalDex": "0032",
+    "Generation": 2,
+    "Species": "Spinarak",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0168",
+    "RegionalDex": "0033",
+    "Generation": 2,
+    "Species": "Ariados",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0169",
+    "RegionalDex": "0039",
+    "Generation": 2,
+    "Species": "Crobat",
+    "Types": [
+      8,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0170",
+    "RegionalDex": "0176",
+    "Generation": 2,
+    "Species": "Chinchou",
+    "Types": [
+      3,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0171",
+    "RegionalDex": "0177",
+    "Generation": 2,
+    "Species": "Lanturn",
+    "Types": [
+      3,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0172",
+    "RegionalDex": "0021",
+    "Generation": 2,
+    "Species": "Pichu",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0173",
+    "RegionalDex": "0040",
+    "Generation": 2,
+    "Species": "Cleffa",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0174",
+    "RegionalDex": "0044",
+    "Generation": 2,
+    "Species": "Igglybuff",
+    "Types": [
+      1,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0175",
+    "RegionalDex": "0046",
+    "Generation": 2,
+    "Species": "Togepi",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0176",
+    "RegionalDex": "0047",
+    "Generation": 2,
+    "Species": "Togetic",
+    "Types": [
+      18,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0177",
+    "RegionalDex": "0161",
+    "Generation": 2,
+    "Species": "Natu",
+    "Types": [
+      11,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0178",
+    "RegionalDex": "0162",
+    "Generation": 2,
+    "Species": "Xatu",
+    "Types": [
+      11,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0179",
+    "RegionalDex": "0053",
+    "Generation": 2,
+    "Species": "Mareep",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0180",
+    "RegionalDex": "0054",
+    "Generation": 2,
+    "Species": "Flaaffy",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0181",
+    "RegionalDex": "0055",
+    "Generation": 2,
+    "Species": "Ampharos",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0182",
+    "RegionalDex": "0086",
+    "Generation": 2,
+    "Species": "Bellossom",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0183",
+    "RegionalDex": "0132",
+    "Generation": 2,
+    "Species": "Marill",
+    "Types": [
+      3,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0184",
+    "RegionalDex": "0133",
+    "Generation": 2,
+    "Species": "Azumarill",
+    "Types": [
+      3,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0185",
+    "RegionalDex": "0107",
+    "Generation": 2,
+    "Species": "Sudowoodo",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0186",
+    "RegionalDex": "0075",
+    "Generation": 2,
+    "Species": "Politoed",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0187",
+    "RegionalDex": "0067",
+    "Generation": 2,
+    "Species": "Hoppip",
+    "Types": [
+      5,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0188",
+    "RegionalDex": "0068",
+    "Generation": 2,
+    "Species": "Skiploom",
+    "Types": [
+      5,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0189",
+    "RegionalDex": "0069",
+    "Generation": 2,
+    "Species": "Jumpluff",
+    "Types": [
+      5,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0190",
+    "RegionalDex": "0123",
+    "Generation": 2,
+    "Species": "Aipom",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0191",
+    "RegionalDex": "0103",
+    "Generation": 2,
+    "Species": "Sunkern",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0192",
+    "RegionalDex": "0104",
+    "Generation": 2,
+    "Species": "Sunflora",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0193",
+    "RegionalDex": "0101",
+    "Generation": 2,
+    "Species": "Yanma",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0194",
+    "RegionalDex": "0056",
+    "Generation": 2,
+    "Species": "Wooper",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0195",
+    "RegionalDex": "0057",
+    "Generation": 2,
+    "Species": "Quagsire",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0196",
+    "RegionalDex": "0188",
+    "Generation": 2,
+    "Species": "Espeon",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0197",
+    "RegionalDex": "0189",
+    "Generation": 2,
+    "Species": "Umbreon",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0198",
+    "RegionalDex": "0213",
+    "Generation": 2,
+    "Species": "Murkrow",
+    "Types": [
+      16,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0199",
+    "RegionalDex": "0082",
+    "Generation": 2,
+    "Species": "Slowking",
+    "Types": [
+      3,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0199",
+    "RegionalDex": "",
+    "Generation": 2,
+    "Species": "Slowking",
+    "Types": [
+      8,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0200",
+    "RegionalDex": "0219",
+    "Generation": 2,
+    "Species": "Misdreavus",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0201",
+    "RegionalDex": "0061",
+    "Generation": 2,
+    "Species": "Unown",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0202",
+    "RegionalDex": "0108",
+    "Generation": 2,
+    "Species": "Wobbuffet",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0203",
+    "RegionalDex": "0149",
+    "Generation": 2,
+    "Species": "Girafarig",
+    "Types": [
+      1,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0204",
+    "RegionalDex": "0093",
+    "Generation": 2,
+    "Species": "Pineco",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0205",
+    "RegionalDex": "0094",
+    "Generation": 2,
+    "Species": "Forretress",
+    "Types": [
+      12,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0206",
+    "RegionalDex": "0052",
+    "Generation": 2,
+    "Species": "Dunsparce",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0207",
+    "RegionalDex": "0193",
+    "Generation": 2,
+    "Species": "Gligar",
+    "Types": [
+      9,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0208",
+    "RegionalDex": "0063",
+    "Generation": 2,
+    "Species": "Steelix",
+    "Types": [
+      17,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0209",
+    "RegionalDex": "0125",
+    "Generation": 2,
+    "Species": "Snubbull",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0210",
+    "RegionalDex": "0126",
+    "Generation": 2,
+    "Species": "Granbull",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0211",
+    "RegionalDex": "0163",
+    "Generation": 2,
+    "Species": "Qwilfish",
+    "Types": [
+      3,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0212",
+    "RegionalDex": "0112",
+    "Generation": 2,
+    "Species": "Scizor",
+    "Types": [
+      12,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0213",
+    "RegionalDex": "0168",
+    "Generation": 2,
+    "Species": "Shuckle",
+    "Types": [
+      12,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0214",
+    "RegionalDex": "0114",
+    "Generation": 2,
+    "Species": "Heracross",
+    "Types": [
+      12,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0215",
+    "RegionalDex": "0218",
+    "Generation": 2,
+    "Species": "Sneasel",
+    "Types": [
+      16,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0216",
+    "RegionalDex": "0198",
+    "Generation": 2,
+    "Species": "Teddiursa",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0217",
+    "RegionalDex": "0199",
+    "Generation": 2,
+    "Species": "Ursaring",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0218",
+    "RegionalDex": "0216",
+    "Generation": 2,
+    "Species": "Slugma",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0219",
+    "RegionalDex": "0217",
+    "Generation": 2,
+    "Species": "Magcargo",
+    "Types": [
+      2,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0220",
+    "RegionalDex": "0195",
+    "Generation": 2,
+    "Species": "Swinub",
+    "Types": [
+      6,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0221",
+    "RegionalDex": "0196",
+    "Generation": 2,
+    "Species": "Piloswine",
+    "Types": [
+      6,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0222",
+    "RegionalDex": "0173",
+    "Generation": 2,
+    "Species": "Corsola",
+    "Types": [
+      3,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0222",
+    "RegionalDex": "",
+    "Generation": 2,
+    "Species": "Corsola",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0223",
+    "RegionalDex": "0174",
+    "Generation": 2,
+    "Species": "Remoraid",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0224",
+    "RegionalDex": "0175",
+    "Generation": 2,
+    "Species": "Octillery",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0225",
+    "RegionalDex": "0194",
+    "Generation": 2,
+    "Species": "Delibird",
+    "Types": [
+      6,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0226",
+    "RegionalDex": "0202",
+    "Generation": 2,
+    "Species": "Mantine",
+    "Types": [
+      3,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0227",
+    "RegionalDex": "0203",
+    "Generation": 2,
+    "Species": "Skarmory",
+    "Types": [
+      17,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0228",
+    "RegionalDex": "0214",
+    "Generation": 2,
+    "Species": "Houndour",
+    "Types": [
+      16,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0229",
+    "RegionalDex": "0215",
+    "Generation": 2,
+    "Species": "Houndoom",
+    "Types": [
+      16,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0230",
+    "RegionalDex": "0192",
+    "Generation": 2,
+    "Species": "Kingdra",
+    "Types": [
+      3,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0231",
+    "RegionalDex": "0200",
+    "Generation": 2,
+    "Species": "Phanpy",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0232",
+    "RegionalDex": "0201",
+    "Generation": 2,
+    "Species": "Donphan",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0233",
+    "RegionalDex": "0221",
+    "Generation": 2,
+    "Species": "Porygon2",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0234",
+    "RegionalDex": "0131",
+    "Generation": 2,
+    "Species": "Stantler",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0235",
+    "RegionalDex": "0159",
+    "Generation": 2,
+    "Species": "Smeargle",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0236",
+    "RegionalDex": "0145",
+    "Generation": 2,
+    "Species": "Tyrogue",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0237",
+    "RegionalDex": "0148",
+    "Generation": 2,
+    "Species": "Hitmontop",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0238",
+    "RegionalDex": "0154",
+    "Generation": 2,
+    "Species": "Smoochum",
+    "Types": [
+      6,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0239",
+    "RegionalDex": "0156",
+    "Generation": 2,
+    "Species": "Elekid",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0240",
+    "RegionalDex": "0152",
+    "Generation": 2,
+    "Species": "Magby",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0241",
+    "RegionalDex": "0151",
+    "Generation": 2,
+    "Species": "Miltank",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0242",
+    "RegionalDex": "0223",
+    "Generation": 2,
+    "Species": "Blissey",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0243",
+    "RegionalDex": "0243",
+    "Generation": 2,
+    "Species": "Raikou",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0244",
+    "RegionalDex": "0244",
+    "Generation": 2,
+    "Species": "Entei",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0245",
+    "RegionalDex": "0245",
+    "Generation": 2,
+    "Species": "Suicune",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0246",
+    "RegionalDex": "0249",
+    "Generation": 2,
+    "Species": "Larvitar",
+    "Types": [
+      13,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0247",
+    "RegionalDex": "0250",
+    "Generation": 2,
+    "Species": "Pupitar",
+    "Types": [
+      13,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0248",
+    "RegionalDex": "0251",
+    "Generation": 2,
+    "Species": "Tyranitar",
+    "Types": [
+      13,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0249",
+    "RegionalDex": "0252",
+    "Generation": 2,
+    "Species": "Lugia",
+    "Types": [
+      11,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0250",
+    "RegionalDex": "0253",
+    "Generation": 2,
+    "Species": "Ho-Oh",
+    "Types": [
+      2,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0251",
+    "RegionalDex": "0256",
+    "Generation": 2,
+    "Species": "Celebi",
+    "Types": [
+      11,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0252",
+    "RegionalDex": "0001",
+    "Generation": 3,
+    "Species": "Treecko",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0253",
+    "RegionalDex": "0002",
+    "Generation": 3,
+    "Species": "Grovyle",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0254",
+    "RegionalDex": "0003",
+    "Generation": 3,
+    "Species": "Sceptile",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0255",
+    "RegionalDex": "0004",
+    "Generation": 3,
+    "Species": "Torchic",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0256",
+    "RegionalDex": "0005",
+    "Generation": 3,
+    "Species": "Combusken",
+    "Types": [
+      2,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0257",
+    "RegionalDex": "0006",
+    "Generation": 3,
+    "Species": "Blaziken",
+    "Types": [
+      2,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0258",
+    "RegionalDex": "0007",
+    "Generation": 3,
+    "Species": "Mudkip",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0259",
+    "RegionalDex": "0008",
+    "Generation": 3,
+    "Species": "Marshtomp",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0260",
+    "RegionalDex": "0009",
+    "Generation": 3,
+    "Species": "Swampert",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0261",
+    "RegionalDex": "0010",
+    "Generation": 3,
+    "Species": "Poochyena",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0262",
+    "RegionalDex": "0011",
+    "Generation": 3,
+    "Species": "Mightyena",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0263",
+    "RegionalDex": "0012",
+    "Generation": 3,
+    "Species": "Zigzagoon",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0263",
+    "RegionalDex": "",
+    "Generation": 3,
+    "Species": "Zigzagoon",
+    "Types": [
+      16,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0264",
+    "RegionalDex": "0013",
+    "Generation": 3,
+    "Species": "Linoone",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0264",
+    "RegionalDex": "",
+    "Generation": 3,
+    "Species": "Linoone",
+    "Types": [
+      16,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0265",
+    "RegionalDex": "0014",
+    "Generation": 3,
+    "Species": "Wurmple",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0266",
+    "RegionalDex": "0015",
+    "Generation": 3,
+    "Species": "Silcoon",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0267",
+    "RegionalDex": "0016",
+    "Generation": 3,
+    "Species": "Beautifly",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0268",
+    "RegionalDex": "0017",
+    "Generation": 3,
+    "Species": "Cascoon",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0269",
+    "RegionalDex": "0018",
+    "Generation": 3,
+    "Species": "Dustox",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0270",
+    "RegionalDex": "0019",
+    "Generation": 3,
+    "Species": "Lotad",
+    "Types": [
+      3,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0271",
+    "RegionalDex": "0020",
+    "Generation": 3,
+    "Species": "Lombre",
+    "Types": [
+      3,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0272",
+    "RegionalDex": "0021",
+    "Generation": 3,
+    "Species": "Ludicolo",
+    "Types": [
+      3,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0273",
+    "RegionalDex": "0022",
+    "Generation": 3,
+    "Species": "Seedot",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0274",
+    "RegionalDex": "0023",
+    "Generation": 3,
+    "Species": "Nuzleaf",
+    "Types": [
+      5,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0275",
+    "RegionalDex": "0024",
+    "Generation": 3,
+    "Species": "Shiftry",
+    "Types": [
+      5,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0276",
+    "RegionalDex": "0025",
+    "Generation": 3,
+    "Species": "Taillow",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0277",
+    "RegionalDex": "0026",
+    "Generation": 3,
+    "Species": "Swellow",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0278",
+    "RegionalDex": "0027",
+    "Generation": 3,
+    "Species": "Wingull",
+    "Types": [
+      3,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0279",
+    "RegionalDex": "0028",
+    "Generation": 3,
+    "Species": "Pelipper",
+    "Types": [
+      3,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0280",
+    "RegionalDex": "0029",
+    "Generation": 3,
+    "Species": "Ralts",
+    "Types": [
+      11,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0281",
+    "RegionalDex": "0030",
+    "Generation": 3,
+    "Species": "Kirlia",
+    "Types": [
+      11,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0282",
+    "RegionalDex": "0031",
+    "Generation": 3,
+    "Species": "Gardevoir",
+    "Types": [
+      11,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0283",
+    "RegionalDex": "0032",
+    "Generation": 3,
+    "Species": "Surskit",
+    "Types": [
+      12,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0284",
+    "RegionalDex": "0033",
+    "Generation": 3,
+    "Species": "Masquerain",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0285",
+    "RegionalDex": "0034",
+    "Generation": 3,
+    "Species": "Shroomish",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0286",
+    "RegionalDex": "0035",
+    "Generation": 3,
+    "Species": "Breloom",
+    "Types": [
+      5,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0287",
+    "RegionalDex": "0036",
+    "Generation": 3,
+    "Species": "Slakoth",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0288",
+    "RegionalDex": "0037",
+    "Generation": 3,
+    "Species": "Vigoroth",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0289",
+    "RegionalDex": "0038",
+    "Generation": 3,
+    "Species": "Slaking",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0290",
+    "RegionalDex": "0042",
+    "Generation": 3,
+    "Species": "Nincada",
+    "Types": [
+      12,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0291",
+    "RegionalDex": "0043",
+    "Generation": 3,
+    "Species": "Ninjask",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0292",
+    "RegionalDex": "0044",
+    "Generation": 3,
+    "Species": "Shedinja",
+    "Types": [
+      12,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0293",
+    "RegionalDex": "0045",
+    "Generation": 3,
+    "Species": "Whismur",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0294",
+    "RegionalDex": "0046",
+    "Generation": 3,
+    "Species": "Loudred",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0295",
+    "RegionalDex": "0047",
+    "Generation": 3,
+    "Species": "Exploud",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0296",
+    "RegionalDex": "0048",
+    "Generation": 3,
+    "Species": "Makuhita",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0297",
+    "RegionalDex": "0049",
+    "Generation": 3,
+    "Species": "Hariyama",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0298",
+    "RegionalDex": "0054",
+    "Generation": 3,
+    "Species": "Azurill",
+    "Types": [
+      1,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0299",
+    "RegionalDex": "0060",
+    "Generation": 3,
+    "Species": "Nosepass",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0300",
+    "RegionalDex": "0061",
+    "Generation": 3,
+    "Species": "Skitty",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0301",
+    "RegionalDex": "0062",
+    "Generation": 3,
+    "Species": "Delcatty",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0302",
+    "RegionalDex": "0068",
+    "Generation": 3,
+    "Species": "Sableye",
+    "Types": [
+      16,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0303",
+    "RegionalDex": "0069",
+    "Generation": 3,
+    "Species": "Mawile",
+    "Types": [
+      17,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0304",
+    "RegionalDex": "0070",
+    "Generation": 3,
+    "Species": "Aron",
+    "Types": [
+      17,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0305",
+    "RegionalDex": "0071",
+    "Generation": 3,
+    "Species": "Lairon",
+    "Types": [
+      17,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0306",
+    "RegionalDex": "0072",
+    "Generation": 3,
+    "Species": "Aggron",
+    "Types": [
+      17,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0307",
+    "RegionalDex": "0076",
+    "Generation": 3,
+    "Species": "Meditite",
+    "Types": [
+      7,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0308",
+    "RegionalDex": "0077",
+    "Generation": 3,
+    "Species": "Medicham",
+    "Types": [
+      7,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0309",
+    "RegionalDex": "0078",
+    "Generation": 3,
+    "Species": "Electrike",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0310",
+    "RegionalDex": "0079",
+    "Generation": 3,
+    "Species": "Manectric",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0311",
+    "RegionalDex": "0080",
+    "Generation": 3,
+    "Species": "Plusle",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0312",
+    "RegionalDex": "0081",
+    "Generation": 3,
+    "Species": "Minun",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0313",
+    "RegionalDex": "0086",
+    "Generation": 3,
+    "Species": "Volbeat",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0314",
+    "RegionalDex": "0087",
+    "Generation": 3,
+    "Species": "Illumise",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0315",
+    "RegionalDex": "0094",
+    "Generation": 3,
+    "Species": "Roselia",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0316",
+    "RegionalDex": "0095",
+    "Generation": 3,
+    "Species": "Gulpin",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0317",
+    "RegionalDex": "0096",
+    "Generation": 3,
+    "Species": "Swalot",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0318",
+    "RegionalDex": "0097",
+    "Generation": 3,
+    "Species": "Carvanha",
+    "Types": [
+      3,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0319",
+    "RegionalDex": "0098",
+    "Generation": 3,
+    "Species": "Sharpedo",
+    "Types": [
+      3,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0320",
+    "RegionalDex": "0099",
+    "Generation": 3,
+    "Species": "Wailmer",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0321",
+    "RegionalDex": "0100",
+    "Generation": 3,
+    "Species": "Wailord",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0322",
+    "RegionalDex": "0101",
+    "Generation": 3,
+    "Species": "Numel",
+    "Types": [
+      2,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0323",
+    "RegionalDex": "0102",
+    "Generation": 3,
+    "Species": "Camerupt",
+    "Types": [
+      2,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0324",
+    "RegionalDex": "0105",
+    "Generation": 3,
+    "Species": "Torkoal",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0325",
+    "RegionalDex": "0110",
+    "Generation": 3,
+    "Species": "Spoink",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0326",
+    "RegionalDex": "0111",
+    "Generation": 3,
+    "Species": "Grumpig",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0327",
+    "RegionalDex": "0114",
+    "Generation": 3,
+    "Species": "Spinda",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0328",
+    "RegionalDex": "0116",
+    "Generation": 3,
+    "Species": "Trapinch",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0329",
+    "RegionalDex": "0117",
+    "Generation": 3,
+    "Species": "Vibrava",
+    "Types": [
+      9,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0330",
+    "RegionalDex": "0118",
+    "Generation": 3,
+    "Species": "Flygon",
+    "Types": [
+      9,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0331",
+    "RegionalDex": "0119",
+    "Generation": 3,
+    "Species": "Cacnea",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0332",
+    "RegionalDex": "0120",
+    "Generation": 3,
+    "Species": "Cacturne",
+    "Types": [
+      5,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0333",
+    "RegionalDex": "0121",
+    "Generation": 3,
+    "Species": "Swablu",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0334",
+    "RegionalDex": "0122",
+    "Generation": 3,
+    "Species": "Altaria",
+    "Types": [
+      15,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0335",
+    "RegionalDex": "0123",
+    "Generation": 3,
+    "Species": "Zangoose",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0336",
+    "RegionalDex": "0124",
+    "Generation": 3,
+    "Species": "Seviper",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0337",
+    "RegionalDex": "0125",
+    "Generation": 3,
+    "Species": "Lunatone",
+    "Types": [
+      13,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0338",
+    "RegionalDex": "0126",
+    "Generation": 3,
+    "Species": "Solrock",
+    "Types": [
+      13,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0339",
+    "RegionalDex": "0127",
+    "Generation": 3,
+    "Species": "Barboach",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0340",
+    "RegionalDex": "0128",
+    "Generation": 3,
+    "Species": "Whiscash",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0341",
+    "RegionalDex": "0129",
+    "Generation": 3,
+    "Species": "Corphish",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0342",
+    "RegionalDex": "0130",
+    "Generation": 3,
+    "Species": "Crawdaunt",
+    "Types": [
+      3,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0343",
+    "RegionalDex": "0131",
+    "Generation": 3,
+    "Species": "Baltoy",
+    "Types": [
+      9,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0344",
+    "RegionalDex": "0132",
+    "Generation": 3,
+    "Species": "Claydol",
+    "Types": [
+      9,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0345",
+    "RegionalDex": "0133",
+    "Generation": 3,
+    "Species": "Lileep",
+    "Types": [
+      13,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0346",
+    "RegionalDex": "0134",
+    "Generation": 3,
+    "Species": "Cradily",
+    "Types": [
+      13,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0347",
+    "RegionalDex": "0135",
+    "Generation": 3,
+    "Species": "Anorith",
+    "Types": [
+      13,
+      12
+    ]
+  },
+  {
+    "NationalDex": "0348",
+    "RegionalDex": "0136",
+    "Generation": 3,
+    "Species": "Armaldo",
+    "Types": [
+      13,
+      12
+    ]
+  },
+  {
+    "NationalDex": "0349",
+    "RegionalDex": "0140",
+    "Generation": 3,
+    "Species": "Feebas",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0350",
+    "RegionalDex": "0141",
+    "Generation": 3,
+    "Species": "Milotic",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0351",
+    "RegionalDex": "0142",
+    "Generation": 3,
+    "Species": "Castform",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0351",
+    "RegionalDex": "0142",
+    "Generation": 3,
+    "Species": "Castform",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0351",
+    "RegionalDex": "0142",
+    "Generation": 3,
+    "Species": "Castform",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0351",
+    "RegionalDex": "0142",
+    "Generation": 3,
+    "Species": "Castform",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0352",
+    "RegionalDex": "0145",
+    "Generation": 3,
+    "Species": "Kecleon",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0353",
+    "RegionalDex": "0146",
+    "Generation": 3,
+    "Species": "Shuppet",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0354",
+    "RegionalDex": "0147",
+    "Generation": 3,
+    "Species": "Banette",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0355",
+    "RegionalDex": "0148",
+    "Generation": 3,
+    "Species": "Duskull",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0356",
+    "RegionalDex": "0149",
+    "Generation": 3,
+    "Species": "Dusclops",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0357",
+    "RegionalDex": "0150",
+    "Generation": 3,
+    "Species": "Tropius",
+    "Types": [
+      5,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0358",
+    "RegionalDex": "0151",
+    "Generation": 3,
+    "Species": "Chimecho",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0359",
+    "RegionalDex": "0152",
+    "Generation": 3,
+    "Species": "Absol",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0360",
+    "RegionalDex": "0160",
+    "Generation": 3,
+    "Species": "Wynaut",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0361",
+    "RegionalDex": "0171",
+    "Generation": 3,
+    "Species": "Snorunt",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0362",
+    "RegionalDex": "0172",
+    "Generation": 3,
+    "Species": "Glalie",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0363",
+    "RegionalDex": "0173",
+    "Generation": 3,
+    "Species": "Spheal",
+    "Types": [
+      6,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0364",
+    "RegionalDex": "0174",
+    "Generation": 3,
+    "Species": "Sealeo",
+    "Types": [
+      6,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0365",
+    "RegionalDex": "0175",
+    "Generation": 3,
+    "Species": "Walrein",
+    "Types": [
+      6,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0366",
+    "RegionalDex": "0176",
+    "Generation": 3,
+    "Species": "Clamperl",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0367",
+    "RegionalDex": "0177",
+    "Generation": 3,
+    "Species": "Huntail",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0368",
+    "RegionalDex": "0178",
+    "Generation": 3,
+    "Species": "Gorebyss",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0369",
+    "RegionalDex": "0179",
+    "Generation": 3,
+    "Species": "Relicanth",
+    "Types": [
+      3,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0370",
+    "RegionalDex": "0183",
+    "Generation": 3,
+    "Species": "Luvdisc",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0371",
+    "RegionalDex": "0187",
+    "Generation": 3,
+    "Species": "Bagon",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0372",
+    "RegionalDex": "0188",
+    "Generation": 3,
+    "Species": "Shelgon",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0373",
+    "RegionalDex": "0189",
+    "Generation": 3,
+    "Species": "Salamence",
+    "Types": [
+      15,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0374",
+    "RegionalDex": "0190",
+    "Generation": 3,
+    "Species": "Beldum",
+    "Types": [
+      17,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0375",
+    "RegionalDex": "0191",
+    "Generation": 3,
+    "Species": "Metang",
+    "Types": [
+      17,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0376",
+    "RegionalDex": "0192",
+    "Generation": 3,
+    "Species": "Metagross",
+    "Types": [
+      17,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0377",
+    "RegionalDex": "0193",
+    "Generation": 3,
+    "Species": "Regirock",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0378",
+    "RegionalDex": "0194",
+    "Generation": 3,
+    "Species": "Regice",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0379",
+    "RegionalDex": "0195",
+    "Generation": 3,
+    "Species": "Registeel",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0380",
+    "RegionalDex": "0196",
+    "Generation": 3,
+    "Species": "Latias",
+    "Types": [
+      15,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0381",
+    "RegionalDex": "0197",
+    "Generation": 3,
+    "Species": "Latios",
+    "Types": [
+      15,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0382",
+    "RegionalDex": "0198",
+    "Generation": 3,
+    "Species": "Kyogre",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0383",
+    "RegionalDex": "0199",
+    "Generation": 3,
+    "Species": "Groudon",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0384",
+    "RegionalDex": "0200",
+    "Generation": 3,
+    "Species": "Rayquaza",
+    "Types": [
+      15,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0385",
+    "RegionalDex": "0201",
+    "Generation": 3,
+    "Species": "Jirachi",
+    "Types": [
+      17,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0386",
+    "RegionalDex": "0202",
+    "Generation": 3,
+    "Species": "Deoxys",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0386",
+    "RegionalDex": "0202",
+    "Generation": 3,
+    "Species": "Deoxys",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0386",
+    "RegionalDex": "0202",
+    "Generation": 3,
+    "Species": "Deoxys",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0386",
+    "RegionalDex": "0202",
+    "Generation": 3,
+    "Species": "Deoxys",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0387",
+    "RegionalDex": "0001",
+    "Generation": 4,
+    "Species": "Turtwig",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0388",
+    "RegionalDex": "0002",
+    "Generation": 4,
+    "Species": "Grotle",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0389",
+    "RegionalDex": "0003",
+    "Generation": 4,
+    "Species": "Torterra",
+    "Types": [
+      5,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0390",
+    "RegionalDex": "0004",
+    "Generation": 4,
+    "Species": "Chimchar",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0391",
+    "RegionalDex": "0005",
+    "Generation": 4,
+    "Species": "Monferno",
+    "Types": [
+      2,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0392",
+    "RegionalDex": "0006",
+    "Generation": 4,
+    "Species": "Infernape",
+    "Types": [
+      2,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0393",
+    "RegionalDex": "0007",
+    "Generation": 4,
+    "Species": "Piplup",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0394",
+    "RegionalDex": "0008",
+    "Generation": 4,
+    "Species": "Prinplup",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0395",
+    "RegionalDex": "0009",
+    "Generation": 4,
+    "Species": "Empoleon",
+    "Types": [
+      3,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0396",
+    "RegionalDex": "0010",
+    "Generation": 4,
+    "Species": "Starly",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0397",
+    "RegionalDex": "0011",
+    "Generation": 4,
+    "Species": "Staravia",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0398",
+    "RegionalDex": "0012",
+    "Generation": 4,
+    "Species": "Staraptor",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0399",
+    "RegionalDex": "0013",
+    "Generation": 4,
+    "Species": "Bidoof",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0400",
+    "RegionalDex": "0014",
+    "Generation": 4,
+    "Species": "Bibarel",
+    "Types": [
+      1,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0401",
+    "RegionalDex": "0015",
+    "Generation": 4,
+    "Species": "Kricketot",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0402",
+    "RegionalDex": "0016",
+    "Generation": 4,
+    "Species": "Kricketune",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0403",
+    "RegionalDex": "0017",
+    "Generation": 4,
+    "Species": "Shinx",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0404",
+    "RegionalDex": "0018",
+    "Generation": 4,
+    "Species": "Luxio",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0405",
+    "RegionalDex": "0019",
+    "Generation": 4,
+    "Species": "Luxray",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0406",
+    "RegionalDex": "0025",
+    "Generation": 4,
+    "Species": "Budew",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0407",
+    "RegionalDex": "0027",
+    "Generation": 4,
+    "Species": "Roserade",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0408",
+    "RegionalDex": "0036",
+    "Generation": 4,
+    "Species": "Cranidos",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0409",
+    "RegionalDex": "0037",
+    "Generation": 4,
+    "Species": "Rampardos",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0410",
+    "RegionalDex": "0038",
+    "Generation": 4,
+    "Species": "Shieldon",
+    "Types": [
+      13,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0411",
+    "RegionalDex": "0039",
+    "Generation": 4,
+    "Species": "Bastiodon",
+    "Types": [
+      13,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0412",
+    "RegionalDex": "0045",
+    "Generation": 4,
+    "Species": "Burmy",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0412",
+    "RegionalDex": "0045",
+    "Generation": 4,
+    "Species": "Burmy",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0412",
+    "RegionalDex": "0045",
+    "Generation": 4,
+    "Species": "Burmy",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0413",
+    "RegionalDex": "0046",
+    "Generation": 4,
+    "Species": "Wormadam",
+    "Types": [
+      12,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0413",
+    "RegionalDex": "0046",
+    "Generation": 4,
+    "Species": "Wormadam",
+    "Types": [
+      12,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0413",
+    "RegionalDex": "0046",
+    "Generation": 4,
+    "Species": "Wormadam",
+    "Types": [
+      12,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0414",
+    "RegionalDex": "0047",
+    "Generation": 4,
+    "Species": "Mothim",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0415",
+    "RegionalDex": "0053",
+    "Generation": 4,
+    "Species": "Combee",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0416",
+    "RegionalDex": "0054",
+    "Generation": 4,
+    "Species": "Vespiquen",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0417",
+    "RegionalDex": "0055",
+    "Generation": 4,
+    "Species": "Pachirisu",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0418",
+    "RegionalDex": "0056",
+    "Generation": 4,
+    "Species": "Buizel",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0419",
+    "RegionalDex": "0057",
+    "Generation": 4,
+    "Species": "Floatzel",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0420",
+    "RegionalDex": "0058",
+    "Generation": 4,
+    "Species": "Cherubi",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0421",
+    "RegionalDex": "0059",
+    "Generation": 4,
+    "Species": "Cherrim",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0422",
+    "RegionalDex": "0060",
+    "Generation": 4,
+    "Species": "Shellos",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0422",
+    "RegionalDex": "0060",
+    "Generation": 4,
+    "Species": "Shellos",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0423",
+    "RegionalDex": "0061",
+    "Generation": 4,
+    "Species": "Gastrodon",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0423",
+    "RegionalDex": "0061",
+    "Generation": 4,
+    "Species": "Gastrodon",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0424",
+    "RegionalDex": "0064",
+    "Generation": 4,
+    "Species": "Ambipom",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0425",
+    "RegionalDex": "0065",
+    "Generation": 4,
+    "Species": "Drifloon",
+    "Types": [
+      14,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0426",
+    "RegionalDex": "0066",
+    "Generation": 4,
+    "Species": "Drifblim",
+    "Types": [
+      14,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0427",
+    "RegionalDex": "0067",
+    "Generation": 4,
+    "Species": "Buneary",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0428",
+    "RegionalDex": "0068",
+    "Generation": 4,
+    "Species": "Lopunny",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0429",
+    "RegionalDex": "0073",
+    "Generation": 4,
+    "Species": "Mismagius",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0430",
+    "RegionalDex": "0075",
+    "Generation": 4,
+    "Species": "Honchkrow",
+    "Types": [
+      16,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0431",
+    "RegionalDex": "0076",
+    "Generation": 4,
+    "Species": "Glameow",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0432",
+    "RegionalDex": "0077",
+    "Generation": 4,
+    "Species": "Purugly",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0433",
+    "RegionalDex": "0082",
+    "Generation": 4,
+    "Species": "Chingling",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0434",
+    "RegionalDex": "0084",
+    "Generation": 4,
+    "Species": "Stunky",
+    "Types": [
+      8,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0435",
+    "RegionalDex": "0085",
+    "Generation": 4,
+    "Species": "Skuntank",
+    "Types": [
+      8,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0436",
+    "RegionalDex": "0088",
+    "Generation": 4,
+    "Species": "Bronzor",
+    "Types": [
+      17,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0437",
+    "RegionalDex": "0089",
+    "Generation": 4,
+    "Species": "Bronzong",
+    "Types": [
+      17,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0438",
+    "RegionalDex": "0092",
+    "Generation": 4,
+    "Species": "Bonsly",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0439",
+    "RegionalDex": "0094",
+    "Generation": 4,
+    "Species": "Mime Jr.",
+    "Types": [
+      11,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0440",
+    "RegionalDex": "0096",
+    "Generation": 4,
+    "Species": "Happiny",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0441",
+    "RegionalDex": "0102",
+    "Generation": 4,
+    "Species": "Chatot",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0442",
+    "RegionalDex": "0108",
+    "Generation": 4,
+    "Species": "Spiritomb",
+    "Types": [
+      14,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0443",
+    "RegionalDex": "0109",
+    "Generation": 4,
+    "Species": "Gible",
+    "Types": [
+      15,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0444",
+    "RegionalDex": "0110",
+    "Generation": 4,
+    "Species": "Gabite",
+    "Types": [
+      15,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0445",
+    "RegionalDex": "0111",
+    "Generation": 4,
+    "Species": "Garchomp",
+    "Types": [
+      15,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0446",
+    "RegionalDex": "0112",
+    "Generation": 4,
+    "Species": "Munchlax",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0447",
+    "RegionalDex": "0115",
+    "Generation": 4,
+    "Species": "Riolu",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0448",
+    "RegionalDex": "0116",
+    "Generation": 4,
+    "Species": "Lucario",
+    "Types": [
+      7,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0449",
+    "RegionalDex": "0122",
+    "Generation": 4,
+    "Species": "Hippopotas",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0450",
+    "RegionalDex": "0123",
+    "Generation": 4,
+    "Species": "Hippowdon",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0451",
+    "RegionalDex": "0127",
+    "Generation": 4,
+    "Species": "Skorupi",
+    "Types": [
+      8,
+      12
+    ]
+  },
+  {
+    "NationalDex": "0452",
+    "RegionalDex": "0128",
+    "Generation": 4,
+    "Species": "Drapion",
+    "Types": [
+      8,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0453",
+    "RegionalDex": "0129",
+    "Generation": 4,
+    "Species": "Croagunk",
+    "Types": [
+      8,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0454",
+    "RegionalDex": "0130",
+    "Generation": 4,
+    "Species": "Toxicroak",
+    "Types": [
+      8,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0455",
+    "RegionalDex": "0131",
+    "Generation": 4,
+    "Species": "Carnivine",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0456",
+    "RegionalDex": "0134",
+    "Generation": 4,
+    "Species": "Finneon",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0457",
+    "RegionalDex": "0135",
+    "Generation": 4,
+    "Species": "Lumineon",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0458",
+    "RegionalDex": "0140",
+    "Generation": 4,
+    "Species": "Mantyke",
+    "Types": [
+      3,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0459",
+    "RegionalDex": "0142",
+    "Generation": 4,
+    "Species": "Snover",
+    "Types": [
+      5,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0460",
+    "RegionalDex": "0143",
+    "Generation": 4,
+    "Species": "Abomasnow",
+    "Types": [
+      5,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0461",
+    "RegionalDex": "0145",
+    "Generation": 4,
+    "Species": "Weavile",
+    "Types": [
+      16,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0462",
+    "RegionalDex": "0180",
+    "Generation": 4,
+    "Species": "Magnezone",
+    "Types": [
+      4,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0463",
+    "RegionalDex": "0162",
+    "Generation": 4,
+    "Species": "Lickilicky",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0464",
+    "RegionalDex": "0188",
+    "Generation": 4,
+    "Species": "Rhyperior",
+    "Types": [
+      9,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0465",
+    "RegionalDex": "0182",
+    "Generation": 4,
+    "Species": "Tangrowth",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0466",
+    "RegionalDex": "0199",
+    "Generation": 4,
+    "Species": "Electivire",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0467",
+    "RegionalDex": "0202",
+    "Generation": 4,
+    "Species": "Magmortar",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0468",
+    "RegionalDex": "0175",
+    "Generation": 4,
+    "Species": "Togekiss",
+    "Types": [
+      18,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0469",
+    "RegionalDex": "0184",
+    "Generation": 4,
+    "Species": "Yanmega",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0470",
+    "RegionalDex": "0169",
+    "Generation": 4,
+    "Species": "Leafeon",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0471",
+    "RegionalDex": "0170",
+    "Generation": 4,
+    "Species": "Glaceon",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0472",
+    "RegionalDex": "0154",
+    "Generation": 4,
+    "Species": "Gliscor",
+    "Types": [
+      9,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0473",
+    "RegionalDex": "0205",
+    "Generation": 4,
+    "Species": "Mamoswine",
+    "Types": [
+      6,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0474",
+    "RegionalDex": "0194",
+    "Generation": 4,
+    "Species": "Porygon-Z",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0475",
+    "RegionalDex": "0160",
+    "Generation": 4,
+    "Species": "Gallade",
+    "Types": [
+      11,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0476",
+    "RegionalDex": "0156",
+    "Generation": 4,
+    "Species": "Probopass",
+    "Types": [
+      13,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0477",
+    "RegionalDex": "0191",
+    "Generation": 4,
+    "Species": "Dusknoir",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0478",
+    "RegionalDex": "0208",
+    "Generation": 4,
+    "Species": "Froslass",
+    "Types": [
+      6,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0479",
+    "RegionalDex": "0152",
+    "Generation": 4,
+    "Species": "Rotom",
+    "Types": [
+      4,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0479",
+    "RegionalDex": "0152",
+    "Generation": 4,
+    "Species": "Rotom",
+    "Types": [
+      4,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0479",
+    "RegionalDex": "0152",
+    "Generation": 4,
+    "Species": "Rotom",
+    "Types": [
+      4,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0479",
+    "RegionalDex": "0152",
+    "Generation": 4,
+    "Species": "Rotom",
+    "Types": [
+      4,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0479",
+    "RegionalDex": "0152",
+    "Generation": 4,
+    "Species": "Rotom",
+    "Types": [
+      4,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0479",
+    "RegionalDex": "0152",
+    "Generation": 4,
+    "Species": "Rotom",
+    "Types": [
+      4,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0480",
+    "RegionalDex": "0146",
+    "Generation": 4,
+    "Species": "Uxie",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0481",
+    "RegionalDex": "0147",
+    "Generation": 4,
+    "Species": "Mesprit",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0482",
+    "RegionalDex": "0148",
+    "Generation": 4,
+    "Species": "Azelf",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0483",
+    "RegionalDex": "0149",
+    "Generation": 4,
+    "Species": "Dialga",
+    "Types": [
+      17,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0484",
+    "RegionalDex": "0150",
+    "Generation": 4,
+    "Species": "Palkia",
+    "Types": [
+      3,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0485",
+    "RegionalDex": "",
+    "Generation": 4,
+    "Species": "Heatran",
+    "Types": [
+      2,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0486",
+    "RegionalDex": "",
+    "Generation": 4,
+    "Species": "Regigigas",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0487",
+    "RegionalDex": "0210",
+    "Generation": 4,
+    "Species": "Giratina",
+    "Types": [
+      14,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0487",
+    "RegionalDex": "0210",
+    "Generation": 4,
+    "Species": "Giratina",
+    "Types": [
+      14,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0488",
+    "RegionalDex": "",
+    "Generation": 4,
+    "Species": "Cresselia",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0489",
+    "RegionalDex": "",
+    "Generation": 4,
+    "Species": "Phione",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0490",
+    "RegionalDex": "0151",
+    "Generation": 4,
+    "Species": "Manaphy",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0491",
+    "RegionalDex": "",
+    "Generation": 4,
+    "Species": "Darkrai",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0492",
+    "RegionalDex": "",
+    "Generation": 4,
+    "Species": "Shaymin",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0492",
+    "RegionalDex": "",
+    "Generation": 4,
+    "Species": "Shaymin",
+    "Types": [
+      5,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0493",
+    "RegionalDex": "",
+    "Generation": 4,
+    "Species": "Arceus",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0494",
+    "RegionalDex": "0000",
+    "Generation": 5,
+    "Species": "Victini",
+    "Types": [
+      11,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0495",
+    "RegionalDex": "0001",
+    "Generation": 5,
+    "Species": "Snivy",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0496",
+    "RegionalDex": "0002",
+    "Generation": 5,
+    "Species": "Servine",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0497",
+    "RegionalDex": "0003",
+    "Generation": 5,
+    "Species": "Serperior",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0498",
+    "RegionalDex": "0004",
+    "Generation": 5,
+    "Species": "Tepig",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0499",
+    "RegionalDex": "0005",
+    "Generation": 5,
+    "Species": "Pignite",
+    "Types": [
+      2,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0500",
+    "RegionalDex": "0006",
+    "Generation": 5,
+    "Species": "Emboar",
+    "Types": [
+      2,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0501",
+    "RegionalDex": "0007",
+    "Generation": 5,
+    "Species": "Oshawott",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0502",
+    "RegionalDex": "0008",
+    "Generation": 5,
+    "Species": "Dewott",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0503",
+    "RegionalDex": "0009",
+    "Generation": 5,
+    "Species": "Samurott",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0504",
+    "RegionalDex": "0010",
+    "Generation": 5,
+    "Species": "Patrat",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0505",
+    "RegionalDex": "0011",
+    "Generation": 5,
+    "Species": "Watchog",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0506",
+    "RegionalDex": "0012",
+    "Generation": 5,
+    "Species": "Lillipup",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0507",
+    "RegionalDex": "0013",
+    "Generation": 5,
+    "Species": "Herdier",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0508",
+    "RegionalDex": "0014",
+    "Generation": 5,
+    "Species": "Stoutland",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0509",
+    "RegionalDex": "0015",
+    "Generation": 5,
+    "Species": "Purrloin",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0510",
+    "RegionalDex": "0016",
+    "Generation": 5,
+    "Species": "Liepard",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0511",
+    "RegionalDex": "0017",
+    "Generation": 5,
+    "Species": "Pansage",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0512",
+    "RegionalDex": "0018",
+    "Generation": 5,
+    "Species": "Simisage",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0513",
+    "RegionalDex": "0019",
+    "Generation": 5,
+    "Species": "Pansear",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0514",
+    "RegionalDex": "0020",
+    "Generation": 5,
+    "Species": "Simisear",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0515",
+    "RegionalDex": "0021",
+    "Generation": 5,
+    "Species": "Panpour",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0516",
+    "RegionalDex": "0022",
+    "Generation": 5,
+    "Species": "Simipour",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0517",
+    "RegionalDex": "0023",
+    "Generation": 5,
+    "Species": "Munna",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0518",
+    "RegionalDex": "0024",
+    "Generation": 5,
+    "Species": "Musharna",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0519",
+    "RegionalDex": "0025",
+    "Generation": 5,
+    "Species": "Pidove",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0520",
+    "RegionalDex": "0026",
+    "Generation": 5,
+    "Species": "Tranquill",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0521",
+    "RegionalDex": "0027",
+    "Generation": 5,
+    "Species": "Unfezant",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0521",
+    "RegionalDex": "0027",
+    "Generation": 5,
+    "Species": "Unfezant",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0522",
+    "RegionalDex": "0028",
+    "Generation": 5,
+    "Species": "Blitzle",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0523",
+    "RegionalDex": "0029",
+    "Generation": 5,
+    "Species": "Zebstrika",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0524",
+    "RegionalDex": "0030",
+    "Generation": 5,
+    "Species": "Roggenrola",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0525",
+    "RegionalDex": "0031",
+    "Generation": 5,
+    "Species": "Boldore",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0526",
+    "RegionalDex": "0032",
+    "Generation": 5,
+    "Species": "Gigalith",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0527",
+    "RegionalDex": "0033",
+    "Generation": 5,
+    "Species": "Woobat",
+    "Types": [
+      11,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0528",
+    "RegionalDex": "0034",
+    "Generation": 5,
+    "Species": "Swoobat",
+    "Types": [
+      11,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0529",
+    "RegionalDex": "0035",
+    "Generation": 5,
+    "Species": "Drilbur",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0530",
+    "RegionalDex": "0036",
+    "Generation": 5,
+    "Species": "Excadrill",
+    "Types": [
+      9,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0531",
+    "RegionalDex": "0037",
+    "Generation": 5,
+    "Species": "Audino",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0532",
+    "RegionalDex": "0038",
+    "Generation": 5,
+    "Species": "Timburr",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0533",
+    "RegionalDex": "0039",
+    "Generation": 5,
+    "Species": "Gurdurr",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0534",
+    "RegionalDex": "0040",
+    "Generation": 5,
+    "Species": "Conkeldurr",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0535",
+    "RegionalDex": "0041",
+    "Generation": 5,
+    "Species": "Tympole",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0536",
+    "RegionalDex": "0042",
+    "Generation": 5,
+    "Species": "Palpitoad",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0537",
+    "RegionalDex": "0043",
+    "Generation": 5,
+    "Species": "Seismitoad",
+    "Types": [
+      3,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0538",
+    "RegionalDex": "0044",
+    "Generation": 5,
+    "Species": "Throh",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0539",
+    "RegionalDex": "0045",
+    "Generation": 5,
+    "Species": "Sawk",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0540",
+    "RegionalDex": "0046",
+    "Generation": 5,
+    "Species": "Sewaddle",
+    "Types": [
+      12,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0541",
+    "RegionalDex": "0047",
+    "Generation": 5,
+    "Species": "Swadloon",
+    "Types": [
+      12,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0542",
+    "RegionalDex": "0048",
+    "Generation": 5,
+    "Species": "Leavanny",
+    "Types": [
+      12,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0543",
+    "RegionalDex": "0049",
+    "Generation": 5,
+    "Species": "Venipede",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0544",
+    "RegionalDex": "0050",
+    "Generation": 5,
+    "Species": "Whirlipede",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0545",
+    "RegionalDex": "0051",
+    "Generation": 5,
+    "Species": "Scolipede",
+    "Types": [
+      12,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0546",
+    "RegionalDex": "0052",
+    "Generation": 5,
+    "Species": "Cottonee",
+    "Types": [
+      5,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0547",
+    "RegionalDex": "0053",
+    "Generation": 5,
+    "Species": "Whimsicott",
+    "Types": [
+      5,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0548",
+    "RegionalDex": "0054",
+    "Generation": 5,
+    "Species": "Petilil",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0549",
+    "RegionalDex": "0055",
+    "Generation": 5,
+    "Species": "Lilligant",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0550",
+    "RegionalDex": "0056",
+    "Generation": 5,
+    "Species": "Basculin",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0550",
+    "RegionalDex": "0056",
+    "Generation": 5,
+    "Species": "Basculin",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0551",
+    "RegionalDex": "0057",
+    "Generation": 5,
+    "Species": "Sandile",
+    "Types": [
+      9,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0552",
+    "RegionalDex": "0058",
+    "Generation": 5,
+    "Species": "Krokorok",
+    "Types": [
+      9,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0553",
+    "RegionalDex": "0059",
+    "Generation": 5,
+    "Species": "Krookodile",
+    "Types": [
+      9,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0554",
+    "RegionalDex": "0060",
+    "Generation": 5,
+    "Species": "Darumaka",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0554",
+    "RegionalDex": "",
+    "Generation": 5,
+    "Species": "Darumaka",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0555",
+    "RegionalDex": "0061",
+    "Generation": 5,
+    "Species": "Darmanitan",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0555",
+    "RegionalDex": "0061",
+    "Generation": 5,
+    "Species": "Darmanitan",
+    "Types": [
+      2,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0555",
+    "RegionalDex": "",
+    "Generation": 5,
+    "Species": "Darmanitan",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0555",
+    "RegionalDex": "",
+    "Generation": 5,
+    "Species": "Darmanitan",
+    "Types": [
+      6,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0556",
+    "RegionalDex": "0062",
+    "Generation": 5,
+    "Species": "Maractus",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0557",
+    "RegionalDex": "0063",
+    "Generation": 5,
+    "Species": "Dwebble",
+    "Types": [
+      12,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0558",
+    "RegionalDex": "0064",
+    "Generation": 5,
+    "Species": "Crustle",
+    "Types": [
+      12,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0559",
+    "RegionalDex": "0065",
+    "Generation": 5,
+    "Species": "Scraggy",
+    "Types": [
+      16,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0560",
+    "RegionalDex": "0066",
+    "Generation": 5,
+    "Species": "Scrafty",
+    "Types": [
+      16,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0561",
+    "RegionalDex": "0067",
+    "Generation": 5,
+    "Species": "Sigilyph",
+    "Types": [
+      11,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0562",
+    "RegionalDex": "0068",
+    "Generation": 5,
+    "Species": "Yamask",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0562",
+    "RegionalDex": "",
+    "Generation": 5,
+    "Species": "Yamask",
+    "Types": [
+      9,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0563",
+    "RegionalDex": "0069",
+    "Generation": 5,
+    "Species": "Cofagrigus",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0564",
+    "RegionalDex": "0070",
+    "Generation": 5,
+    "Species": "Tirtouga",
+    "Types": [
+      3,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0565",
+    "RegionalDex": "0071",
+    "Generation": 5,
+    "Species": "Carracosta",
+    "Types": [
+      3,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0566",
+    "RegionalDex": "0072",
+    "Generation": 5,
+    "Species": "Archen",
+    "Types": [
+      13,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0567",
+    "RegionalDex": "0073",
+    "Generation": 5,
+    "Species": "Archeops",
+    "Types": [
+      13,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0568",
+    "RegionalDex": "0074",
+    "Generation": 5,
+    "Species": "Trubbish",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0569",
+    "RegionalDex": "0075",
+    "Generation": 5,
+    "Species": "Garbodor",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0570",
+    "RegionalDex": "0076",
+    "Generation": 5,
+    "Species": "Zorua",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0570",
+    "RegionalDex": "",
+    "Generation": 5,
+    "Species": "Zorua",
+    "Types": [
+      1,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0571",
+    "RegionalDex": "0077",
+    "Generation": 5,
+    "Species": "Zoroark",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0571",
+    "RegionalDex": "",
+    "Generation": 5,
+    "Species": "Zoroark",
+    "Types": [
+      1,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0572",
+    "RegionalDex": "0078",
+    "Generation": 5,
+    "Species": "Minccino",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0573",
+    "RegionalDex": "0079",
+    "Generation": 5,
+    "Species": "Cinccino",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0574",
+    "RegionalDex": "0080",
+    "Generation": 5,
+    "Species": "Gothita",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0575",
+    "RegionalDex": "0081",
+    "Generation": 5,
+    "Species": "Gothorita",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0576",
+    "RegionalDex": "0082",
+    "Generation": 5,
+    "Species": "Gothitelle",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0577",
+    "RegionalDex": "0083",
+    "Generation": 5,
+    "Species": "Solosis",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0578",
+    "RegionalDex": "0084",
+    "Generation": 5,
+    "Species": "Duosion",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0579",
+    "RegionalDex": "0085",
+    "Generation": 5,
+    "Species": "Reuniclus",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0580",
+    "RegionalDex": "0086",
+    "Generation": 5,
+    "Species": "Ducklett",
+    "Types": [
+      3,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0581",
+    "RegionalDex": "0087",
+    "Generation": 5,
+    "Species": "Swanna",
+    "Types": [
+      3,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0582",
+    "RegionalDex": "0088",
+    "Generation": 5,
+    "Species": "Vanillite",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0583",
+    "RegionalDex": "0089",
+    "Generation": 5,
+    "Species": "Vanillish",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0584",
+    "RegionalDex": "0090",
+    "Generation": 5,
+    "Species": "Vanilluxe",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0585",
+    "RegionalDex": "0091",
+    "Generation": 5,
+    "Species": "Deerling",
+    "Types": [
+      1,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0586",
+    "RegionalDex": "0092",
+    "Generation": 5,
+    "Species": "Sawsbuck",
+    "Types": [
+      1,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0587",
+    "RegionalDex": "0093",
+    "Generation": 5,
+    "Species": "Emolga",
+    "Types": [
+      4,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0588",
+    "RegionalDex": "0094",
+    "Generation": 5,
+    "Species": "Karrablast",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0589",
+    "RegionalDex": "0095",
+    "Generation": 5,
+    "Species": "Escavalier",
+    "Types": [
+      12,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0590",
+    "RegionalDex": "0096",
+    "Generation": 5,
+    "Species": "Foongus",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0591",
+    "RegionalDex": "0097",
+    "Generation": 5,
+    "Species": "Amoonguss",
+    "Types": [
+      5,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0592",
+    "RegionalDex": "0098",
+    "Generation": 5,
+    "Species": "Frillish",
+    "Types": [
+      3,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0592",
+    "RegionalDex": "0098",
+    "Generation": 5,
+    "Species": "Frillish",
+    "Types": [
+      3,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0593",
+    "RegionalDex": "0099",
+    "Generation": 5,
+    "Species": "Jellicent",
+    "Types": [
+      3,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0593",
+    "RegionalDex": "0099",
+    "Generation": 5,
+    "Species": "Jellicent",
+    "Types": [
+      3,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0594",
+    "RegionalDex": "0100",
+    "Generation": 5,
+    "Species": "Alomomola",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0595",
+    "RegionalDex": "0101",
+    "Generation": 5,
+    "Species": "Joltik",
+    "Types": [
+      12,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0596",
+    "RegionalDex": "0102",
+    "Generation": 5,
+    "Species": "Galvantula",
+    "Types": [
+      12,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0597",
+    "RegionalDex": "0103",
+    "Generation": 5,
+    "Species": "Ferroseed",
+    "Types": [
+      5,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0598",
+    "RegionalDex": "0104",
+    "Generation": 5,
+    "Species": "Ferrothorn",
+    "Types": [
+      5,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0599",
+    "RegionalDex": "0105",
+    "Generation": 5,
+    "Species": "Klink",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0600",
+    "RegionalDex": "0106",
+    "Generation": 5,
+    "Species": "Klang",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0601",
+    "RegionalDex": "0107",
+    "Generation": 5,
+    "Species": "Klinklang",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0602",
+    "RegionalDex": "0108",
+    "Generation": 5,
+    "Species": "Tynamo",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0603",
+    "RegionalDex": "0109",
+    "Generation": 5,
+    "Species": "Eelektrik",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0604",
+    "RegionalDex": "0110",
+    "Generation": 5,
+    "Species": "Eelektross",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0605",
+    "RegionalDex": "0111",
+    "Generation": 5,
+    "Species": "Elgyem",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0606",
+    "RegionalDex": "0112",
+    "Generation": 5,
+    "Species": "Beheeyem",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0607",
+    "RegionalDex": "0113",
+    "Generation": 5,
+    "Species": "Litwick",
+    "Types": [
+      14,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0608",
+    "RegionalDex": "0114",
+    "Generation": 5,
+    "Species": "Lampent",
+    "Types": [
+      14,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0609",
+    "RegionalDex": "0115",
+    "Generation": 5,
+    "Species": "Chandelure",
+    "Types": [
+      14,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0610",
+    "RegionalDex": "0116",
+    "Generation": 5,
+    "Species": "Axew",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0611",
+    "RegionalDex": "0117",
+    "Generation": 5,
+    "Species": "Fraxure",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0612",
+    "RegionalDex": "0118",
+    "Generation": 5,
+    "Species": "Haxorus",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0613",
+    "RegionalDex": "0119",
+    "Generation": 5,
+    "Species": "Cubchoo",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0614",
+    "RegionalDex": "0120",
+    "Generation": 5,
+    "Species": "Beartic",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0615",
+    "RegionalDex": "0121",
+    "Generation": 5,
+    "Species": "Cryogonal",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0616",
+    "RegionalDex": "0122",
+    "Generation": 5,
+    "Species": "Shelmet",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0617",
+    "RegionalDex": "0123",
+    "Generation": 5,
+    "Species": "Accelgor",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0618",
+    "RegionalDex": "0124",
+    "Generation": 5,
+    "Species": "Stunfisk",
+    "Types": [
+      9,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0618",
+    "RegionalDex": "",
+    "Generation": 5,
+    "Species": "Stunfisk",
+    "Types": [
+      9,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0619",
+    "RegionalDex": "0125",
+    "Generation": 5,
+    "Species": "Mienfoo",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0620",
+    "RegionalDex": "0126",
+    "Generation": 5,
+    "Species": "Mienshao",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0621",
+    "RegionalDex": "0127",
+    "Generation": 5,
+    "Species": "Druddigon",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0622",
+    "RegionalDex": "0128",
+    "Generation": 5,
+    "Species": "Golett",
+    "Types": [
+      9,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0623",
+    "RegionalDex": "0129",
+    "Generation": 5,
+    "Species": "Golurk",
+    "Types": [
+      9,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0624",
+    "RegionalDex": "0130",
+    "Generation": 5,
+    "Species": "Pawniard",
+    "Types": [
+      16,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0625",
+    "RegionalDex": "0131",
+    "Generation": 5,
+    "Species": "Bisharp",
+    "Types": [
+      16,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0626",
+    "RegionalDex": "0132",
+    "Generation": 5,
+    "Species": "Bouffalant",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0627",
+    "RegionalDex": "0133",
+    "Generation": 5,
+    "Species": "Rufflet",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0628",
+    "RegionalDex": "0134",
+    "Generation": 5,
+    "Species": "Braviary",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0628",
+    "RegionalDex": "",
+    "Generation": 5,
+    "Species": "Braviary",
+    "Types": [
+      11,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0629",
+    "RegionalDex": "0135",
+    "Generation": 5,
+    "Species": "Vullaby",
+    "Types": [
+      16,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0630",
+    "RegionalDex": "0136",
+    "Generation": 5,
+    "Species": "Mandibuzz",
+    "Types": [
+      16,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0631",
+    "RegionalDex": "0137",
+    "Generation": 5,
+    "Species": "Heatmor",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0632",
+    "RegionalDex": "0138",
+    "Generation": 5,
+    "Species": "Durant",
+    "Types": [
+      12,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0633",
+    "RegionalDex": "0139",
+    "Generation": 5,
+    "Species": "Deino",
+    "Types": [
+      16,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0634",
+    "RegionalDex": "0140",
+    "Generation": 5,
+    "Species": "Zweilous",
+    "Types": [
+      16,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0635",
+    "RegionalDex": "0141",
+    "Generation": 5,
+    "Species": "Hydreigon",
+    "Types": [
+      16,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0636",
+    "RegionalDex": "0142",
+    "Generation": 5,
+    "Species": "Larvesta",
+    "Types": [
+      12,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0637",
+    "RegionalDex": "0143",
+    "Generation": 5,
+    "Species": "Volcarona",
+    "Types": [
+      12,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0638",
+    "RegionalDex": "0144",
+    "Generation": 5,
+    "Species": "Cobalion",
+    "Types": [
+      17,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0639",
+    "RegionalDex": "0145",
+    "Generation": 5,
+    "Species": "Terrakion",
+    "Types": [
+      13,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0640",
+    "RegionalDex": "0146",
+    "Generation": 5,
+    "Species": "Virizion",
+    "Types": [
+      5,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0641",
+    "RegionalDex": "0147",
+    "Generation": 5,
+    "Species": "Tornadus",
+    "Types": [
+      10
+    ]
+  },
+  {
+    "NationalDex": "0642",
+    "RegionalDex": "0148",
+    "Generation": 5,
+    "Species": "Thundurus",
+    "Types": [
+      4,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0643",
+    "RegionalDex": "0149",
+    "Generation": 5,
+    "Species": "Reshiram",
+    "Types": [
+      15,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0644",
+    "RegionalDex": "0150",
+    "Generation": 5,
+    "Species": "Zekrom",
+    "Types": [
+      15,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0645",
+    "RegionalDex": "0151",
+    "Generation": 5,
+    "Species": "Landorus",
+    "Types": [
+      9,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0646",
+    "RegionalDex": "0152",
+    "Generation": 5,
+    "Species": "Kyurem",
+    "Types": [
+      15,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0647",
+    "RegionalDex": "0153",
+    "Generation": 5,
+    "Species": "Keldeo",
+    "Types": [
+      3,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0648",
+    "RegionalDex": "0154",
+    "Generation": 5,
+    "Species": "Meloetta",
+    "Types": [
+      1,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0648",
+    "RegionalDex": "0154",
+    "Generation": 5,
+    "Species": "Meloetta",
+    "Types": [
+      1,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0649",
+    "RegionalDex": "0155",
+    "Generation": 5,
+    "Species": "Genesect",
+    "Types": [
+      12,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0650",
+    "RegionalDex": "0001",
+    "Generation": 6,
+    "Species": "Chespin",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0651",
+    "RegionalDex": "0002",
+    "Generation": 6,
+    "Species": "Quilladin",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0652",
+    "RegionalDex": "0003",
+    "Generation": 6,
+    "Species": "Chesnaught",
+    "Types": [
+      5,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0653",
+    "RegionalDex": "0004",
+    "Generation": 6,
+    "Species": "Fennekin",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0654",
+    "RegionalDex": "0005",
+    "Generation": 6,
+    "Species": "Braixen",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0655",
+    "RegionalDex": "0006",
+    "Generation": 6,
+    "Species": "Delphox",
+    "Types": [
+      2,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0656",
+    "RegionalDex": "0007",
+    "Generation": 6,
+    "Species": "Froakie",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0657",
+    "RegionalDex": "0008",
+    "Generation": 6,
+    "Species": "Frogadier",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0658",
+    "RegionalDex": "0009",
+    "Generation": 6,
+    "Species": "Greninja",
+    "Types": [
+      3,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0659",
+    "RegionalDex": "0010",
+    "Generation": 6,
+    "Species": "Bunnelby",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0660",
+    "RegionalDex": "0011",
+    "Generation": 6,
+    "Species": "Diggersby",
+    "Types": [
+      1,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0661",
+    "RegionalDex": "0014",
+    "Generation": 6,
+    "Species": "Fletchling",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0662",
+    "RegionalDex": "0015",
+    "Generation": 6,
+    "Species": "Fletchinder",
+    "Types": [
+      2,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0663",
+    "RegionalDex": "0016",
+    "Generation": 6,
+    "Species": "Talonflame",
+    "Types": [
+      2,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0664",
+    "RegionalDex": "0020",
+    "Generation": 6,
+    "Species": "Scatterbug",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0665",
+    "RegionalDex": "0021",
+    "Generation": 6,
+    "Species": "Spewpa",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0666",
+    "RegionalDex": "0022",
+    "Generation": 6,
+    "Species": "Vivillon",
+    "Types": [
+      12,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0667",
+    "RegionalDex": "0057",
+    "Generation": 6,
+    "Species": "Litleo",
+    "Types": [
+      2,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0668",
+    "RegionalDex": "0058",
+    "Generation": 6,
+    "Species": "Pyroar",
+    "Types": [
+      2,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0669",
+    "RegionalDex": "0068",
+    "Generation": 6,
+    "Species": "Flabébé",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0670",
+    "RegionalDex": "0069",
+    "Generation": 6,
+    "Species": "Floette",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0671",
+    "RegionalDex": "0070",
+    "Generation": 6,
+    "Species": "Florges",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0672",
+    "RegionalDex": "0089",
+    "Generation": 6,
+    "Species": "Skiddo",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0673",
+    "RegionalDex": "0090",
+    "Generation": 6,
+    "Species": "Gogoat",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0674",
+    "RegionalDex": "0091",
+    "Generation": 6,
+    "Species": "Pancham",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0675",
+    "RegionalDex": "0092",
+    "Generation": 6,
+    "Species": "Pangoro",
+    "Types": [
+      7,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0676",
+    "RegionalDex": "0093",
+    "Generation": 6,
+    "Species": "Furfrou",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0677",
+    "RegionalDex": "0114",
+    "Generation": 6,
+    "Species": "Espurr",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0678",
+    "RegionalDex": "0115",
+    "Generation": 6,
+    "Species": "Meowstic",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0679",
+    "RegionalDex": "0117",
+    "Generation": 6,
+    "Species": "Honedge",
+    "Types": [
+      17,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0680",
+    "RegionalDex": "0118",
+    "Generation": 6,
+    "Species": "Doublade",
+    "Types": [
+      17,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0681",
+    "RegionalDex": "0119",
+    "Generation": 6,
+    "Species": "Aegislash",
+    "Types": [
+      17,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0682",
+    "RegionalDex": "0129",
+    "Generation": 6,
+    "Species": "Spritzee",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0683",
+    "RegionalDex": "0130",
+    "Generation": 6,
+    "Species": "Aromatisse",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0684",
+    "RegionalDex": "0131",
+    "Generation": 6,
+    "Species": "Swirlix",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0685",
+    "RegionalDex": "0132",
+    "Generation": 6,
+    "Species": "Slurpuff",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0686",
+    "RegionalDex": "0010",
+    "Generation": 6,
+    "Species": "Inkay",
+    "Types": [
+      16,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0687",
+    "RegionalDex": "0011",
+    "Generation": 6,
+    "Species": "Malamar",
+    "Types": [
+      16,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0688",
+    "RegionalDex": "0021",
+    "Generation": 6,
+    "Species": "Binacle",
+    "Types": [
+      13,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0689",
+    "RegionalDex": "0022",
+    "Generation": 6,
+    "Species": "Barbaracle",
+    "Types": [
+      13,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0690",
+    "RegionalDex": "0030",
+    "Generation": 6,
+    "Species": "Skrelp",
+    "Types": [
+      8,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0691",
+    "RegionalDex": "0031",
+    "Generation": 6,
+    "Species": "Dragalge",
+    "Types": [
+      8,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0692",
+    "RegionalDex": "0032",
+    "Generation": 6,
+    "Species": "Clauncher",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0693",
+    "RegionalDex": "0033",
+    "Generation": 6,
+    "Species": "Clawitzer",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0694",
+    "RegionalDex": "0046",
+    "Generation": 6,
+    "Species": "Helioptile",
+    "Types": [
+      4,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0695",
+    "RegionalDex": "0047",
+    "Generation": 6,
+    "Species": "Heliolisk",
+    "Types": [
+      4,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0696",
+    "RegionalDex": "0064",
+    "Generation": 6,
+    "Species": "Tyrunt",
+    "Types": [
+      13,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0697",
+    "RegionalDex": "0065",
+    "Generation": 6,
+    "Species": "Tyrantrum",
+    "Types": [
+      13,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0698",
+    "RegionalDex": "0066",
+    "Generation": 6,
+    "Species": "Amaura",
+    "Types": [
+      13,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0699",
+    "RegionalDex": "0067",
+    "Generation": 6,
+    "Species": "Aurorus",
+    "Types": [
+      13,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0700",
+    "RegionalDex": "0085",
+    "Generation": 6,
+    "Species": "Sylveon",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0701",
+    "RegionalDex": "0089",
+    "Generation": 6,
+    "Species": "Hawlucha",
+    "Types": [
+      7,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0702",
+    "RegionalDex": "0110",
+    "Generation": 6,
+    "Species": "Dedenne",
+    "Types": [
+      4,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0703",
+    "RegionalDex": "0124",
+    "Generation": 6,
+    "Species": "Carbink",
+    "Types": [
+      13,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0704",
+    "RegionalDex": "0019",
+    "Generation": 6,
+    "Species": "Goomy",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0705",
+    "RegionalDex": "0020",
+    "Generation": 6,
+    "Species": "Sliggoo",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0706",
+    "RegionalDex": "0021",
+    "Generation": 6,
+    "Species": "Goodra",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0707",
+    "RegionalDex": "0050",
+    "Generation": 6,
+    "Species": "Klefki",
+    "Types": [
+      17,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0708",
+    "RegionalDex": "0061",
+    "Generation": 6,
+    "Species": "Phantump",
+    "Types": [
+      14,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0709",
+    "RegionalDex": "0062",
+    "Generation": 6,
+    "Species": "Trevenant",
+    "Types": [
+      14,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0710",
+    "RegionalDex": "0063",
+    "Generation": 6,
+    "Species": "Pumpkaboo",
+    "Types": [
+      14,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0711",
+    "RegionalDex": "0064",
+    "Generation": 6,
+    "Species": "Gourgeist",
+    "Types": [
+      14,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0712",
+    "RegionalDex": "0079",
+    "Generation": 6,
+    "Species": "Bergmite",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0713",
+    "RegionalDex": "0080",
+    "Generation": 6,
+    "Species": "Avalugg",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0714",
+    "RegionalDex": "0113",
+    "Generation": 6,
+    "Species": "Noibat",
+    "Types": [
+      10,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0715",
+    "RegionalDex": "0114",
+    "Generation": 6,
+    "Species": "Noivern",
+    "Types": [
+      10,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0716",
+    "RegionalDex": "0148",
+    "Generation": 6,
+    "Species": "Xerneas",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0717",
+    "RegionalDex": "0149",
+    "Generation": 6,
+    "Species": "Yveltal",
+    "Types": [
+      16,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0718",
+    "RegionalDex": "0150",
+    "Generation": 6,
+    "Species": "Zygarde",
+    "Types": [
+      15,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0719",
+    "RegionalDex": "0151",
+    "Generation": 6,
+    "Species": "Diancie",
+    "Types": [
+      13,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0720",
+    "RegionalDex": "0152",
+    "Generation": 6,
+    "Species": "Hoopa",
+    "Types": [
+      11,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0720",
+    "RegionalDex": "0152",
+    "Generation": 6,
+    "Species": "Hoopa",
+    "Types": [
+      11,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0721",
+    "RegionalDex": "0153",
+    "Generation": 6,
+    "Species": "Volcanion",
+    "Types": [
+      2,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0722",
+    "RegionalDex": "0001",
+    "Generation": 7,
+    "Species": "Rowlet",
+    "Types": [
+      5,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0723",
+    "RegionalDex": "0002",
+    "Generation": 7,
+    "Species": "Dartrix",
+    "Types": [
+      5,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0724",
+    "RegionalDex": "0003",
+    "Generation": 7,
+    "Species": "Decidueye",
+    "Types": [
+      5,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0725",
+    "RegionalDex": "0004",
+    "Generation": 7,
+    "Species": "Litten",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0726",
+    "RegionalDex": "0005",
+    "Generation": 7,
+    "Species": "Torracat",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0727",
+    "RegionalDex": "0006",
+    "Generation": 7,
+    "Species": "Incineroar",
+    "Types": [
+      2,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0728",
+    "RegionalDex": "0007",
+    "Generation": 7,
+    "Species": "Popplio",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0729",
+    "RegionalDex": "0008",
+    "Generation": 7,
+    "Species": "Brionne",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0730",
+    "RegionalDex": "0009",
+    "Generation": 7,
+    "Species": "Primarina",
+    "Types": [
+      3,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0731",
+    "RegionalDex": "0010",
+    "Generation": 7,
+    "Species": "Pikipek",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0732",
+    "RegionalDex": "0011",
+    "Generation": 7,
+    "Species": "Trumbeak",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0733",
+    "RegionalDex": "0012",
+    "Generation": 7,
+    "Species": "Toucannon",
+    "Types": [
+      1,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0734",
+    "RegionalDex": "0013",
+    "Generation": 7,
+    "Species": "Yungoos",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0735",
+    "RegionalDex": "0014",
+    "Generation": 7,
+    "Species": "Gumshoos",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0736",
+    "RegionalDex": "0027",
+    "Generation": 7,
+    "Species": "Grubbin",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0737",
+    "RegionalDex": "0028",
+    "Generation": 7,
+    "Species": "Charjabug",
+    "Types": [
+      12,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0738",
+    "RegionalDex": "0029",
+    "Generation": 7,
+    "Species": "Vikavolt",
+    "Types": [
+      12,
+      4
+    ]
+  },
+  {
+    "NationalDex": "0739",
+    "RegionalDex": "0059",
+    "Generation": 7,
+    "Species": "Crabrawler",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0740",
+    "RegionalDex": "0060",
+    "Generation": 7,
+    "Species": "Crabominable",
+    "Types": [
+      7,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0741",
+    "RegionalDex": "0082",
+    "Generation": 7,
+    "Species": "Oricorio",
+    "Types": [
+      2,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0741",
+    "RegionalDex": "0082",
+    "Generation": 7,
+    "Species": "Oricorio",
+    "Types": [
+      4,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0741",
+    "RegionalDex": "0082",
+    "Generation": 7,
+    "Species": "Oricorio",
+    "Types": [
+      11,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0741",
+    "RegionalDex": "0082",
+    "Generation": 7,
+    "Species": "Oricorio",
+    "Types": [
+      14,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0742",
+    "RegionalDex": "0083",
+    "Generation": 7,
+    "Species": "Cutiefly",
+    "Types": [
+      12,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0743",
+    "RegionalDex": "0084",
+    "Generation": 7,
+    "Species": "Ribombee",
+    "Types": [
+      12,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0744",
+    "RegionalDex": "0103",
+    "Generation": 7,
+    "Species": "Rockruff",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0745",
+    "RegionalDex": "0104",
+    "Generation": 7,
+    "Species": "Lycanroc",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0746",
+    "RegionalDex": "0110",
+    "Generation": 7,
+    "Species": "Wishiwashi",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0747",
+    "RegionalDex": "0113",
+    "Generation": 7,
+    "Species": "Mareanie",
+    "Types": [
+      8,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0748",
+    "RegionalDex": "0114",
+    "Generation": 7,
+    "Species": "Toxapex",
+    "Types": [
+      8,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0749",
+    "RegionalDex": "0132",
+    "Generation": 7,
+    "Species": "Mudbray",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0750",
+    "RegionalDex": "0133",
+    "Generation": 7,
+    "Species": "Mudsdale",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0751",
+    "RegionalDex": "0141",
+    "Generation": 7,
+    "Species": "Dewpider",
+    "Types": [
+      3,
+      12
+    ]
+  },
+  {
+    "NationalDex": "0752",
+    "RegionalDex": "0142",
+    "Generation": 7,
+    "Species": "Araquanid",
+    "Types": [
+      3,
+      12
+    ]
+  },
+  {
+    "NationalDex": "0753",
+    "RegionalDex": "0143",
+    "Generation": 7,
+    "Species": "Fomantis",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0754",
+    "RegionalDex": "0144",
+    "Generation": 7,
+    "Species": "Lurantis",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0755",
+    "RegionalDex": "0145",
+    "Generation": 7,
+    "Species": "Morelull",
+    "Types": [
+      5,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0756",
+    "RegionalDex": "0146",
+    "Generation": 7,
+    "Species": "Shiinotic",
+    "Types": [
+      5,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0757",
+    "RegionalDex": "0161",
+    "Generation": 7,
+    "Species": "Salandit",
+    "Types": [
+      8,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0758",
+    "RegionalDex": "0162",
+    "Generation": 7,
+    "Species": "Salazzle",
+    "Types": [
+      8,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0759",
+    "RegionalDex": "0169",
+    "Generation": 7,
+    "Species": "Stufful",
+    "Types": [
+      1,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0760",
+    "RegionalDex": "0170",
+    "Generation": 7,
+    "Species": "Bewear",
+    "Types": [
+      1,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0761",
+    "RegionalDex": "0171",
+    "Generation": 7,
+    "Species": "Bounsweet",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0762",
+    "RegionalDex": "0172",
+    "Generation": 7,
+    "Species": "Steenee",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0763",
+    "RegionalDex": "0173",
+    "Generation": 7,
+    "Species": "Tsareena",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0764",
+    "RegionalDex": "0174",
+    "Generation": 7,
+    "Species": "Comfey",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0765",
+    "RegionalDex": "0176",
+    "Generation": 7,
+    "Species": "Oranguru",
+    "Types": [
+      1,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0766",
+    "RegionalDex": "0177",
+    "Generation": 7,
+    "Species": "Passimian",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0767",
+    "RegionalDex": "0182",
+    "Generation": 7,
+    "Species": "Wimpod",
+    "Types": [
+      12,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0768",
+    "RegionalDex": "0183",
+    "Generation": 7,
+    "Species": "Golisopod",
+    "Types": [
+      12,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0769",
+    "RegionalDex": "0186",
+    "Generation": 7,
+    "Species": "Sandygast",
+    "Types": [
+      14,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0770",
+    "RegionalDex": "0187",
+    "Generation": 7,
+    "Species": "Palossand",
+    "Types": [
+      14,
+      9
+    ]
+  },
+  {
+    "NationalDex": "0771",
+    "RegionalDex": "0200",
+    "Generation": 7,
+    "Species": "Pyukumuku",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0772",
+    "RegionalDex": "0203",
+    "Generation": 7,
+    "Species": "Type: Null",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0773",
+    "RegionalDex": "0204",
+    "Generation": 7,
+    "Species": "Silvally",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0774",
+    "RegionalDex": "0213",
+    "Generation": 7,
+    "Species": "Minior",
+    "Types": [
+      13,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0775",
+    "RegionalDex": "0222",
+    "Generation": 7,
+    "Species": "Komala",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0776",
+    "RegionalDex": "0224",
+    "Generation": 7,
+    "Species": "Turtonator",
+    "Types": [
+      2,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0777",
+    "RegionalDex": "0225",
+    "Generation": 7,
+    "Species": "Togedemaru",
+    "Types": [
+      4,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0778",
+    "RegionalDex": "0242",
+    "Generation": 7,
+    "Species": "Mimikyu",
+    "Types": [
+      14,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0779",
+    "RegionalDex": "0243",
+    "Generation": 7,
+    "Species": "Bruxish",
+    "Types": [
+      3,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0780",
+    "RegionalDex": "0244",
+    "Generation": 7,
+    "Species": "Drampa",
+    "Types": [
+      1,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0781",
+    "RegionalDex": "0263",
+    "Generation": 7,
+    "Species": "Dhelmise",
+    "Types": [
+      14,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0782",
+    "RegionalDex": "0271",
+    "Generation": 7,
+    "Species": "Jangmo-o",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0783",
+    "RegionalDex": "0272",
+    "Generation": 7,
+    "Species": "Hakamo-o",
+    "Types": [
+      15,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0784",
+    "RegionalDex": "0273",
+    "Generation": 7,
+    "Species": "Kommo-o",
+    "Types": [
+      15,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0785",
+    "RegionalDex": "0285",
+    "Generation": 7,
+    "Species": "Tapu Koko",
+    "Types": [
+      4,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0786",
+    "RegionalDex": "0286",
+    "Generation": 7,
+    "Species": "Tapu Lele",
+    "Types": [
+      11,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0787",
+    "RegionalDex": "0287",
+    "Generation": 7,
+    "Species": "Tapu Bulu",
+    "Types": [
+      5,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0788",
+    "RegionalDex": "0288",
+    "Generation": 7,
+    "Species": "Tapu Fini",
+    "Types": [
+      3,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0789",
+    "RegionalDex": "0289",
+    "Generation": 7,
+    "Species": "Cosmog",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0790",
+    "RegionalDex": "0290",
+    "Generation": 7,
+    "Species": "Cosmoem",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0791",
+    "RegionalDex": "0291",
+    "Generation": 7,
+    "Species": "Solgaleo",
+    "Types": [
+      11,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0792",
+    "RegionalDex": "0292",
+    "Generation": 7,
+    "Species": "Lunala",
+    "Types": [
+      11,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0793",
+    "RegionalDex": "0293",
+    "Generation": 7,
+    "Species": "Nihilego",
+    "Types": [
+      13,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0794",
+    "RegionalDex": "0294",
+    "Generation": 7,
+    "Species": "Buzzwole",
+    "Types": [
+      12,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0795",
+    "RegionalDex": "0295",
+    "Generation": 7,
+    "Species": "Pheromosa",
+    "Types": [
+      12,
+      7
+    ]
+  },
+  {
+    "NationalDex": "0796",
+    "RegionalDex": "0296",
+    "Generation": 7,
+    "Species": "Xurkitree",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0797",
+    "RegionalDex": "0297",
+    "Generation": 7,
+    "Species": "Celesteela",
+    "Types": [
+      17,
+      10
+    ]
+  },
+  {
+    "NationalDex": "0798",
+    "RegionalDex": "0298",
+    "Generation": 7,
+    "Species": "Kartana",
+    "Types": [
+      5,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0799",
+    "RegionalDex": "0299",
+    "Generation": 7,
+    "Species": "Guzzlord",
+    "Types": [
+      16,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0800",
+    "RegionalDex": "0300",
+    "Generation": 7,
+    "Species": "Necrozma",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0801",
+    "RegionalDex": "0301",
+    "Generation": 7,
+    "Species": "Magearna",
+    "Types": [
+      17,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0802",
+    "RegionalDex": "0302",
+    "Generation": 7,
+    "Species": "Marshadow",
+    "Types": [
+      7,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0803",
+    "RegionalDex": "0261",
+    "Generation": 7,
+    "Species": "Poipole",
+    "Types": [
+      8
+    ]
+  },
+  {
+    "NationalDex": "0804",
+    "RegionalDex": "0262",
+    "Generation": 7,
+    "Species": "Naganadel",
+    "Types": [
+      8,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0805",
+    "RegionalDex": "0392",
+    "Generation": 7,
+    "Species": "Stakataka",
+    "Types": [
+      13,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0806",
+    "RegionalDex": "0393",
+    "Generation": 7,
+    "Species": "Blacephalon",
+    "Types": [
+      2,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0807",
+    "RegionalDex": "0403",
+    "Generation": 7,
+    "Species": "Zeraora",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0808",
+    "RegionalDex": "????",
+    "Generation": 7,
+    "Species": "Meltan",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0809",
+    "RegionalDex": "????",
+    "Generation": 7,
+    "Species": "Melmetal",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0810",
+    "RegionalDex": "0001",
+    "Generation": 8,
+    "Species": "Grookey",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0811",
+    "RegionalDex": "0002",
+    "Generation": 8,
+    "Species": "Thwackey",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0812",
+    "RegionalDex": "0003",
+    "Generation": 8,
+    "Species": "Rillaboom",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0813",
+    "RegionalDex": "0004",
+    "Generation": 8,
+    "Species": "Scorbunny",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0814",
+    "RegionalDex": "0005",
+    "Generation": 8,
+    "Species": "Raboot",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0815",
+    "RegionalDex": "0006",
+    "Generation": 8,
+    "Species": "Cinderace",
+    "Types": [
+      2
+    ]
+  },
+  {
+    "NationalDex": "0816",
+    "RegionalDex": "0007",
+    "Generation": 8,
+    "Species": "Sobble",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0817",
+    "RegionalDex": "0008",
+    "Generation": 8,
+    "Species": "Drizzile",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0818",
+    "RegionalDex": "0009",
+    "Generation": 8,
+    "Species": "Inteleon",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0819",
+    "RegionalDex": "0024",
+    "Generation": 8,
+    "Species": "Skwovet",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0820",
+    "RegionalDex": "0025",
+    "Generation": 8,
+    "Species": "Greedent",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0821",
+    "RegionalDex": "0021",
+    "Generation": 8,
+    "Species": "Rookidee",
+    "Types": [
+      10
+    ]
+  },
+  {
+    "NationalDex": "0822",
+    "RegionalDex": "0022",
+    "Generation": 8,
+    "Species": "Corvisquire",
+    "Types": [
+      10
+    ]
+  },
+  {
+    "NationalDex": "0823",
+    "RegionalDex": "0023",
+    "Generation": 8,
+    "Species": "Corviknight",
+    "Types": [
+      10,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0824",
+    "RegionalDex": "0010",
+    "Generation": 8,
+    "Species": "Blipbug",
+    "Types": [
+      12
+    ]
+  },
+  {
+    "NationalDex": "0825",
+    "RegionalDex": "0011",
+    "Generation": 8,
+    "Species": "Dottler",
+    "Types": [
+      12,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0826",
+    "RegionalDex": "0012",
+    "Generation": 8,
+    "Species": "Orbeetle",
+    "Types": [
+      12,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0827",
+    "RegionalDex": "0029",
+    "Generation": 8,
+    "Species": "Nickit",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0828",
+    "RegionalDex": "0030",
+    "Generation": 8,
+    "Species": "Thievul",
+    "Types": [
+      16
+    ]
+  },
+  {
+    "NationalDex": "0829",
+    "RegionalDex": "0126",
+    "Generation": 8,
+    "Species": "Gossifleur",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0830",
+    "RegionalDex": "0127",
+    "Generation": 8,
+    "Species": "Eldegoss",
+    "Types": [
+      5
+    ]
+  },
+  {
+    "NationalDex": "0831",
+    "RegionalDex": "0034",
+    "Generation": 8,
+    "Species": "Wooloo",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0832",
+    "RegionalDex": "0035",
+    "Generation": 8,
+    "Species": "Dubwool",
+    "Types": [
+      1
+    ]
+  },
+  {
+    "NationalDex": "0833",
+    "RegionalDex": "0042",
+    "Generation": 8,
+    "Species": "Chewtle",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0834",
+    "RegionalDex": "0043",
+    "Generation": 8,
+    "Species": "Drednaw",
+    "Types": [
+      3,
+      13
+    ]
+  },
+  {
+    "NationalDex": "0835",
+    "RegionalDex": "0046",
+    "Generation": 8,
+    "Species": "Yamper",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0836",
+    "RegionalDex": "0047",
+    "Generation": 8,
+    "Species": "Boltund",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0837",
+    "RegionalDex": "0161",
+    "Generation": 8,
+    "Species": "Rolycoly",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0838",
+    "RegionalDex": "0162",
+    "Generation": 8,
+    "Species": "Carkol",
+    "Types": [
+      13,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0839",
+    "RegionalDex": "0163",
+    "Generation": 8,
+    "Species": "Coalossal",
+    "Types": [
+      13,
+      2
+    ]
+  },
+  {
+    "NationalDex": "0840",
+    "RegionalDex": "0205",
+    "Generation": 8,
+    "Species": "Applin",
+    "Types": [
+      5,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0841",
+    "RegionalDex": "0206",
+    "Generation": 8,
+    "Species": "Flapple",
+    "Types": [
+      5,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0842",
+    "RegionalDex": "0207",
+    "Generation": 8,
+    "Species": "Appletun",
+    "Types": [
+      5,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0843",
+    "RegionalDex": "0312",
+    "Generation": 8,
+    "Species": "Silicobra",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0844",
+    "RegionalDex": "0313",
+    "Generation": 8,
+    "Species": "Sandaconda",
+    "Types": [
+      9
+    ]
+  },
+  {
+    "NationalDex": "0845",
+    "RegionalDex": "0309",
+    "Generation": 8,
+    "Species": "Cramorant",
+    "Types": [
+      10,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0846",
+    "RegionalDex": "0180",
+    "Generation": 8,
+    "Species": "Arrokuda",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0847",
+    "RegionalDex": "0181",
+    "Generation": 8,
+    "Species": "Barraskewda",
+    "Types": [
+      3
+    ]
+  },
+  {
+    "NationalDex": "0848",
+    "RegionalDex": "0310",
+    "Generation": 8,
+    "Species": "Toxel",
+    "Types": [
+      4,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0849",
+    "RegionalDex": "0311",
+    "Generation": 8,
+    "Species": "Toxtricity",
+    "Types": [
+      4,
+      8
+    ]
+  },
+  {
+    "NationalDex": "0850",
+    "RegionalDex": "0159",
+    "Generation": 8,
+    "Species": "Sizzlipede",
+    "Types": [
+      2,
+      12
+    ]
+  },
+  {
+    "NationalDex": "0851",
+    "RegionalDex": "0160",
+    "Generation": 8,
+    "Species": "Centiskorch",
+    "Types": [
+      2,
+      12
+    ]
+  },
+  {
+    "NationalDex": "0852",
+    "RegionalDex": "0351",
+    "Generation": 8,
+    "Species": "Clobbopus",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0853",
+    "RegionalDex": "0352",
+    "Generation": 8,
+    "Species": "Grapploct",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0854",
+    "RegionalDex": "0335",
+    "Generation": 8,
+    "Species": "Sinistea",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0855",
+    "RegionalDex": "0336",
+    "Generation": 8,
+    "Species": "Polteageist",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0856",
+    "RegionalDex": "0241",
+    "Generation": 8,
+    "Species": "Hatenna",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0857",
+    "RegionalDex": "0242",
+    "Generation": 8,
+    "Species": "Hattrem",
+    "Types": [
+      11
+    ]
+  },
+  {
+    "NationalDex": "0858",
+    "RegionalDex": "0243",
+    "Generation": 8,
+    "Species": "Hatterene",
+    "Types": [
+      11,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0859",
+    "RegionalDex": "0238",
+    "Generation": 8,
+    "Species": "Impidimp",
+    "Types": [
+      16,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0860",
+    "RegionalDex": "0239",
+    "Generation": 8,
+    "Species": "Morgrem",
+    "Types": [
+      16,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0861",
+    "RegionalDex": "0240",
+    "Generation": 8,
+    "Species": "Grimmsnarl",
+    "Types": [
+      16,
+      18
+    ]
+  },
+  {
+    "NationalDex": "0862",
+    "RegionalDex": "0033",
+    "Generation": 8,
+    "Species": "Obstagoon",
+    "Types": [
+      16,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0863",
+    "RegionalDex": "0183",
+    "Generation": 8,
+    "Species": "Perrserker",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0864",
+    "RegionalDex": "0237",
+    "Generation": 8,
+    "Species": "Cursola",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0865",
+    "RegionalDex": "0219",
+    "Generation": 8,
+    "Species": "Sirfetch'd",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0866",
+    "RegionalDex": "0366",
+    "Generation": 8,
+    "Species": "Mr. Rime",
+    "Types": [
+      6,
+      11
+    ]
+  },
+  {
+    "NationalDex": "0867",
+    "RegionalDex": "0328",
+    "Generation": 8,
+    "Species": "Runerigus",
+    "Types": [
+      9,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0868",
+    "RegionalDex": "0185",
+    "Generation": 8,
+    "Species": "Milcery",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0869",
+    "RegionalDex": "0186",
+    "Generation": 8,
+    "Species": "Alcremie",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0870",
+    "RegionalDex": "0345",
+    "Generation": 8,
+    "Species": "Falinks",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0871",
+    "RegionalDex": "0353",
+    "Generation": 8,
+    "Species": "Pincurchin",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0872",
+    "RegionalDex": "0349",
+    "Generation": 8,
+    "Species": "Snom",
+    "Types": [
+      6,
+      12
+    ]
+  },
+  {
+    "NationalDex": "0873",
+    "RegionalDex": "0350",
+    "Generation": 8,
+    "Species": "Frosmoth",
+    "Types": [
+      6,
+      12
+    ]
+  },
+  {
+    "NationalDex": "0874",
+    "RegionalDex": "0369",
+    "Generation": 8,
+    "Species": "Stonjourner",
+    "Types": [
+      13
+    ]
+  },
+  {
+    "NationalDex": "0875",
+    "RegionalDex": "0370",
+    "Generation": 8,
+    "Species": "Eiscue",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0876",
+    "RegionalDex": "0337",
+    "Generation": 8,
+    "Species": "Indeedee",
+    "Types": [
+      11,
+      1
+    ]
+  },
+  {
+    "NationalDex": "0877",
+    "RegionalDex": "0344",
+    "Generation": 8,
+    "Species": "Morpeko",
+    "Types": [
+      4,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0878",
+    "RegionalDex": "0302",
+    "Generation": 8,
+    "Species": "Cufant",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0879",
+    "RegionalDex": "0303",
+    "Generation": 8,
+    "Species": "Copperajah",
+    "Types": [
+      17
+    ]
+  },
+  {
+    "NationalDex": "0880",
+    "RegionalDex": "0374",
+    "Generation": 8,
+    "Species": "Dracozolt",
+    "Types": [
+      4,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0881",
+    "RegionalDex": "0375",
+    "Generation": 8,
+    "Species": "Arctozolt",
+    "Types": [
+      4,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0882",
+    "RegionalDex": "0376",
+    "Generation": 8,
+    "Species": "Dracovish",
+    "Types": [
+      3,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0883",
+    "RegionalDex": "0377",
+    "Generation": 8,
+    "Species": "Arctovish",
+    "Types": [
+      3,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0884",
+    "RegionalDex": "0371",
+    "Generation": 8,
+    "Species": "Duraludon",
+    "Types": [
+      17,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0885",
+    "RegionalDex": "0395",
+    "Generation": 8,
+    "Species": "Dreepy",
+    "Types": [
+      15,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0886",
+    "RegionalDex": "0396",
+    "Generation": 8,
+    "Species": "Drakloak",
+    "Types": [
+      15,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0887",
+    "RegionalDex": "0397",
+    "Generation": 8,
+    "Species": "Dragapult",
+    "Types": [
+      15,
+      14
+    ]
+  },
+  {
+    "NationalDex": "0888",
+    "RegionalDex": "0398",
+    "Generation": 8,
+    "Species": "Zacian",
+    "Types": [
+      18
+    ]
+  },
+  {
+    "NationalDex": "0888",
+    "RegionalDex": "0398",
+    "Generation": 8,
+    "Species": "Zacian",
+    "Types": [
+      18,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0889",
+    "RegionalDex": "0399",
+    "Generation": 8,
+    "Species": "Zamazenta",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0889",
+    "RegionalDex": "0399",
+    "Generation": 8,
+    "Species": "Zamazenta",
+    "Types": [
+      7,
+      17
+    ]
+  },
+  {
+    "NationalDex": "0890",
+    "RegionalDex": "0400",
+    "Generation": 8,
+    "Species": "Eternatus",
+    "Types": [
+      8,
+      15
+    ]
+  },
+  {
+    "NationalDex": "0891",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Kubfu",
+    "Types": [
+      7
+    ]
+  },
+  {
+    "NationalDex": "0892",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Urshifu",
+    "Types": [
+      7,
+      16
+    ]
+  },
+  {
+    "NationalDex": "0892",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Urshifu",
+    "Types": [
+      7,
+      3
+    ]
+  },
+  {
+    "NationalDex": "0893",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Zarude",
+    "Types": [
+      16,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0894",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Regieleki",
+    "Types": [
+      4
+    ]
+  },
+  {
+    "NationalDex": "0895",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Regidrago",
+    "Types": [
+      15
+    ]
+  },
+  {
+    "NationalDex": "0896",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Glastrier",
+    "Types": [
+      6
+    ]
+  },
+  {
+    "NationalDex": "0897",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Spectrier",
+    "Types": [
+      14
+    ]
+  },
+  {
+    "NationalDex": "0898",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Calyrex",
+    "Types": [
+      11,
+      5
+    ]
+  },
+  {
+    "NationalDex": "0898",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Calyrex",
+    "Types": [
+      11,
+      6
+    ]
+  },
+  {
+    "NationalDex": "0898",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Calyrex",
+    "Types": [
+      11,
+      14
+    ]
+  },
+  {
+    "NationalDex": "????",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Basculegion",
+    "Types": [
+      3,
+      14
+    ]
+  },
+  {
+    "NationalDex": "????",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Wyrdeer",
+    "Types": [
+      1,
+      11
+    ]
+  },
+  {
+    "NationalDex": "????",
+    "RegionalDex": "????",
+    "Generation": 8,
+    "Species": "Kleavor",
+    "Types": [
+      12,
+      13
+    ]
+  }
+]

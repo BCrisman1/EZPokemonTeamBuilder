@@ -1,0 +1,146 @@
+﻿<UserControl x:Class="EZPokemonTeamBuilder.Views.TeamMemberView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:converters="clr-namespace:EZPokemonTeamBuilder.Views.Converters"
+             xmlns:local="clr-namespace:EZPokemonTeamBuilder.Views"
+             xmlns:enums="clr-namespace:EZPokemonTeamBuilder.Models.Enums"
+             xmlns:extensions="clr-namespace:EZPokemonTeamBuilder.Views.Extensions"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:viewModels="clr-namespace:EZPokemonTeamBuilder.ViewModels"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <converters:PokemonTypeMatchupMultiConverter x:Key="matchupConverter" />
+        <converters:StringToImageUriConverter x:Key="stringToImageUriConverter" />
+        <CollectionViewSource x:Key="pokedex" Source="{Binding Pokedex}" />
+
+        <Style x:Key="LabelStyleDamageNormal" TargetType="Label">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Label">
+                        <Border Visibility="Hidden" BorderThickness="1" CornerRadius="8" Margin="1" Height="20.62">
+                            <TextBlock FontSize="14" FontWeight="Bold" Foreground="White" TextAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        
+        <Style x:Key="LabelStyleDamageImmunity" TargetType="Label">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Label">
+                        <Border Background="DarkMagenta" BorderBrush="Black" BorderThickness="1" CornerRadius="8" Margin="1" Height="20.62">
+                            <TextBlock Text="immune" FontSize="14" FontWeight="Bold" Foreground="White" TextAlignment="Center" Margin="0,-1,0,1" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="LabelStyleDamageOneQuarter" TargetType="Label">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Label">
+                        <Border Background="#7F00BF00" BorderBrush="Black" BorderThickness="1" CornerRadius="8" Margin="1" Height="20.62">
+                            <TextBlock Text="&#188;" FontSize="14" FontWeight="Bold" FontStyle="Italic" Foreground="White" TextAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="LabelStyleDamageOneHalf" TargetType="Label">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Label">
+                        <Border Background="#7F007F00" BorderBrush="Black" BorderThickness="1" CornerRadius="8" Margin="1" Height="20.62">
+                            <TextBlock Text="&#189;" FontSize="12" FontWeight="Bold" FontStyle="Italic" Foreground="White" TextAlignment="Center" Margin="0,1,0,-1" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="LabelStyleDamageDouble" TargetType="Label">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Label">
+                        <Border Background="#FFDF0000" BorderBrush="Black" BorderThickness="1" CornerRadius="8" Margin="1" Height="20.62">
+                            <TextBlock Text="2x" FontSize="10" FontWeight="Bold" Foreground="White" TextAlignment="Center" Margin="0,2,0,-2" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="LabelStyleDamageQuadruple" TargetType="Label">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Label">
+                        <Border Background="#FF6D0000" BorderBrush="Black" BorderThickness="1" CornerRadius="8" Margin="1" Height="20.62">
+                            <TextBlock Text="4x" FontSize="12" FontWeight="Bold" Foreground="White" TextAlignment="Center" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <CollectionViewSource x:Key="types">
+            <CollectionViewSource.Source>
+                <ObjectDataProvider ObjectType="{x:Type sys:Enum}" MethodName="GetValues">
+                    <ObjectDataProvider.MethodParameters>
+                        <x:Type TypeName="enums:TYPES" />
+                    </ObjectDataProvider.MethodParameters>
+                </ObjectDataProvider>
+            </CollectionViewSource.Source>
+        </CollectionViewSource>
+    </UserControl.Resources>
+
+    <StackPanel Width="{Binding ActualWidth, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=UserControl}}" Height="{Binding ActualHeight, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=UserControl}}">
+        <Border Width="60" Height="60">
+            <Border.Background>
+                <ImageBrush ImageSource="{Binding Pokemon.ImagePath, Converter={StaticResource stringToImageUriConverter}}" />
+            </Border.Background>
+        </Border>
+
+        <ComboBox ItemsSource="{Binding Source={StaticResource pokedex}}" SelectedItem="{Binding Pokemon}" Height="22">
+            <ComboBox.ItemTemplate>
+                <DataTemplate DataType="Pokemon">
+                    <TextBlock FontSize="8" TextAlignment="Center" Padding="0,2,0,0">
+                        <Run Text="{Binding NationalDex}" />
+                        <Run> </Run>
+                        <Run Text="{Binding Species}" />
+                    </TextBlock>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <ListView ItemsSource="{Binding Source={StaticResource types}}" Background="Transparent" BorderThickness="0">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="ListViewItem">
+                                <Label>
+                                    <Label.Style>
+                                        <MultiBinding Converter="{StaticResource matchupConverter}">
+                                            <Binding Path="Content" RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType=ListViewItem}" />
+                                            <Binding Path="DataContext.Pokemon.Types" RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType=UserControl}" />
+                                            <Binding RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType=UserControl}" />
+                                        </MultiBinding>
+                                    </Label.Style>
+                                </Label>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </ListView.ItemContainerStyle>
+        </ListView>
+
+    </StackPanel>
+
+</UserControl>

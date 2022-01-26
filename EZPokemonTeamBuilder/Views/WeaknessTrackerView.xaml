@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="EZPokemonTeamBuilder.Views.WeaknessTrackerView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EZPokemonTeamBuilder.Views"
+             xmlns:converters="clr-namespace:EZPokemonTeamBuilder.Views.Converters"
+             xmlns:enums="clr-namespace:EZPokemonTeamBuilder.Models.Enums"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.Resources>
+        <converters:WeaknessCountConverter x:Key="weaknessCountConverter" />
+        <converters:IntegerToBackgroundColorConverter x:Key="intToBrushConverter" />
+        <CollectionViewSource x:Key="types">
+            <CollectionViewSource.Source>
+                <ObjectDataProvider ObjectType="{x:Type sys:Enum}" MethodName="GetValues">
+                    <ObjectDataProvider.MethodParameters>
+                        <x:Type TypeName="enums:TYPES" />
+                    </ObjectDataProvider.MethodParameters>
+                </ObjectDataProvider>
+            </CollectionViewSource.Source>
+        </CollectionViewSource>
+    </UserControl.Resources>
+
+    <StackPanel Width="{Binding ActualWidth, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=UserControl}}" Height="{Binding ActualHeight, RelativeSource={RelativeSource Mode=FindAncestor, AncestorType=UserControl}}">
+        <Grid Height="60" />
+
+        <ComboBox Visibility="Hidden" />
+
+        <ListView ItemsSource="{Binding Source={StaticResource types}}" Background="Transparent" BorderThickness="0">
+            <ListView.ItemContainerStyle>
+                <Style TargetType="ListViewItem">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="ListViewItem">
+                                <Border Background="{Binding ElementName=TxtBlock, Path=Text, Converter={StaticResource intToBrushConverter}, ConverterParameter='Weakness'}" BorderBrush="Black" BorderThickness="1" CornerRadius="8" Margin="1" Height="20.62">
+                                    <TextBlock x:Name="TxtBlock" FontSize="13" HorizontalAlignment="Center" Margin="0,-1,0,1" Padding="0,0.67,0,0.67">
+                                        <TextBlock.Text>
+                                            <MultiBinding Converter="{StaticResource weaknessCountConverter}">
+                                                <Binding Path="Content" RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType=ListViewItem}" />
+                                                <Binding Path="DataContext.PokemonTeam" RelativeSource="{RelativeSource Mode=FindAncestor, AncestorType={x:Type local:MainView}}" />                                                
+                                            </MultiBinding>
+                                        </TextBlock.Text>
+                                    </TextBlock>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </ListView.ItemContainerStyle>
+        </ListView>
+
+    </StackPanel>
+</UserControl>

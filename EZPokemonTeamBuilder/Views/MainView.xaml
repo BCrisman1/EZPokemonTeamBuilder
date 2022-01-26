@@ -1,0 +1,39 @@
+﻿<UserControl x:Class="EZPokemonTeamBuilder.Views.MainView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:EZPokemonTeamBuilder.Views"
+             xmlns:viewModels="clr-namespace:EZPokemonTeamBuilder.ViewModels"
+             mc:Ignorable="d"
+             d:DesignHeight="450" d:DesignWidth="800">
+
+    <UserControl.DataContext>
+        <viewModels:MainVM />
+    </UserControl.DataContext>
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" MinWidth="61.53846153846154"  />
+            <ColumnDefinition Width="1.5*" MinWidth="92.30769230769231" />
+            <ColumnDefinition Width="1.5*" MinWidth="92.30769230769231" />
+            <ColumnDefinition Width="1.5*" MinWidth="92.30769230769231" />
+            <ColumnDefinition Width="1.5*" MinWidth="92.30769230769231" />
+            <ColumnDefinition Width="1.5*" MinWidth="92.30769230769231" />
+            <ColumnDefinition Width="1.5*" MinWidth="92.30769230769231" />
+            <ColumnDefinition Width="*" MinWidth="61.53846153846154" />
+            <ColumnDefinition Width="*" MinWidth="61.53846153846154" />
+            <ColumnDefinition Width="*" MinWidth="61.53846153846154" />
+        </Grid.ColumnDefinitions>
+
+        <local:TypeListView Grid.Column="0" />
+        <local:TeamMemberView Grid.Column="1" DataContext="{Binding TeamMember00}" />
+        <local:TeamMemberView Grid.Column="2" DataContext="{Binding TeamMember01}" />
+        <local:TeamMemberView Grid.Column="3" DataContext="{Binding TeamMember02}" />
+        <local:TeamMemberView Grid.Column="4" DataContext="{Binding TeamMember03}" />
+        <local:TeamMemberView Grid.Column="5" DataContext="{Binding TeamMember04}" />
+        <local:TeamMemberView Grid.Column="6" DataContext="{Binding TeamMember05}" />
+        <local:WeaknessTrackerView Grid.Column="7" />
+        <local:ResistanceTrackerView Grid.Column="8" />
+    </Grid>
+</UserControl>
